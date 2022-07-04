@@ -1,0 +1,7 @@
+<div class="daily-post">
+  <h2>{{ page.title }}</h2>
+  <span class="daily-post-meta">
+    {% if page.date %} {{ page.date | date: "%A %B %e, %Y" }} {% endif %}
+  </span>
+  <div>{{ content }}</div>
+</div>
