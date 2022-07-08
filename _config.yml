@@ -30,24 +30,37 @@ aux_links:
   "GitHub":
     - "//github.com/momentum-team-x"
 footer_content: "&copy;2022 Momentum"
-logo: "/assets/images/momentum__logo-digital-royal.png"
-# logo: "/assets/images/momentum__mark-300px.png"
-team_name: "Team 13"
+# logo: "/assets/images/momentum__logo-digital-royal.png"
+logo: "/assets/images/momentum__mark-digital-royal.png"
+team_name: "Team X"
 
 # Collections for website data
+# just_the_docs:
 collections:
-  staffers:
-  modules:
   schedules:
+    name: schedules
+    nav_exclude: false
   daily_posts:
+    name: daily_posts
     output: true
+    nav_exclude: false
+  modules:
+    name: modules
+    output: true
+    nav_exclude: true
+  resources:
+    name: resources
+    output: true
+    nav_exclude: true
+
+
 # Default layouts for each collection type
 defaults:
   - scope:
-      path: ''
-      type: staffers
+      path: 'phase1/'
+      type: phase1
     values:
-      layout: staffer
+      layout: page
       subpath: '/assets/images/'
   - scope:
       path: ''
@@ -60,7 +73,7 @@ defaults:
     values:
       layout: schedule
   - scope:
-      path: 'daily_posts'
+      path: daily_posts
       type: pages
     values:
       layout: daily_post

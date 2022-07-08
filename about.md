@@ -16,6 +16,7 @@ description: >-
 
 ---
 
+
 ## Important
 
 Class meetings happen on Zoom.

@@ -3,6 +3,8 @@ title: Week 1 Post
 week: 1
 date: 2022-07-05
 layout: daily_post
+parent: TODOs
+nav_order: 2
 ---
 
 

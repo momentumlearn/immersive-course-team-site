@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Daily Posts
+title: TODOs
 description: A feed containing all of the daily posts
-nav_order: 1
+nav_order: 6
 ---
 
 # Daily Posts
