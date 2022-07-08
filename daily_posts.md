@@ -1,11 +1,11 @@
 ---
 layout: page
-title: TODOs
+title: Announcements
 description: A feed containing all of the daily posts
 nav_order: 6
 ---
 
-# Daily Posts
+# News Flashes
 
 daily_posts are stored in the `_daily_posts` directory and rendered according to the layout file, `_layouts/daily_posts.html`.
 

@@ -17,5 +17,5 @@ here are some things you should know. It is text and more text.
 
 ## Here is a header 2 -- what you should know moreabout
 
-More body text. How doesthis check out?
+More body text. How does this check out?
 

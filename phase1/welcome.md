@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Welcome to your first day of class
-date: 2022-03-21
+date: 2022-05-16
 topic: The Command Line and Git
 category: phase1
 parent: Phase 1 Front End
 nav_order: 1
 ---
-
-{{ page.date | date_to_long_string }}
-{: .page-date}
 
 ## Today's topics
 
@@ -26,7 +23,7 @@ nav_order: 1
 3. Make sure your computer is [all set up and ready to go](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-42f17179ea9c4c769833cf9dc7890e20).
 4. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 5. Read the [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
-6. Complete the Git-It tutorial (below) and [submit this form when you are done](https://forms.gle/hKL37abHZ7TEoyWT6).
+6. Complete the Git-It tutorial (below) and [submit this form when you are done](https://forms.gle/jvQjs85BJ19JS1cWA).
 
 ## 💻 Today's Project: Git It
 
@@ -47,14 +44,25 @@ Your link should look similar to this, with a different number at the end: `http
 
 [Submit the link to your pull request url using this form](https://forms.gle/hKL37abHZ7TEoyWT6).
 
-## 🔖 Links to Resources
+## 🔖 Resources
 
-### [First Day Orientation and Setup]()
+### First Day Orientation and Setup
 
-### [Command Line & Git References]()
+- [Student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
+- [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
+- [Tutorial on Using Slack](https://slack.com/resources/using-slack/slack-tutorials)
+- [Momentum Slack guidelines](https://docs.google.com/document/d/1updvgMnO2xAAfP46oW__d3-nhv4hPodW7WvxKWX87JA/edit)
+- [Setting up your computer](https://www.notion.so/momentumlearn/Computer-Set-up-Instructions-42f17179ea9c4c769833cf9dc7890e20)
 
+### Command Line & Git References
+
+- [Really friendly command-line intro](https://drive.google.com/file/d/1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb/view?usp=sharing)
+- [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
+- [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
+- [Git Command Explorer](https://gitexplorer.com/) -- this tool lets you look up commands by what you are trying to do
 
 ## 🦉 Code & Notes
 
-- [command line notes](https://github.com/Momentum-Team-12/notes/blob/main/command-line.md)
-- [git notes](https://github.com/Momentum-Team-12/notes/blob/main/git-github.md)
+- [command line notes](https://github.com/Momentum-Team-13/notes/blob/main/command-line.md)
+- [git notes](https://github.com/Momentum-Team-13/notes/blob/main/git-github.md)

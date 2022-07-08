@@ -2,13 +2,11 @@
 layout: post
 title: JavaScript and the DOM
 tags: phase-1 javascript js dom
-date: 2022-03-31
+date: 2022-05-26
 parent: Phase 1 Front End
 nav_order: 8
 ---
 
-{{ page.date | date_to_long_string }}
-{: .page-date}
 
 ## Today's topics
 
@@ -19,18 +17,15 @@ nav_order: 8
 
 ## 🎯 Project: JavaScript Calculator
 
-This assignment is due Monday, April 4.
-
-[Link to the assignment invitation for part 1](https://classroom.github.com/a/lNO8ZU8h)
+This assignment is due Tuesday, May 31. *No Class Mon, May 30*
 
 If you complete part 1, continue to part 2.
-Continue in the same repository as part 1, nothing additional to clone. You can read the instructions for
-part 2 [here](https://github.com/Momentum-Team-12/js-calculator-part-2).
+**Continue in the same repository as part 1, nothing additional to clone.** You can read the instructions for
+part 2 [here](https://github.com/Momentum-Team-13/js-calculator-part-2).
 
-##  🐈 Kittens and Puppies 🐶
-- Use the [notes](https://github.com/Momentum-Team-12/notes/blob/main/js-dom.md)) and the [example from class](https://codepen.io/rlconley/pen/ExowjqW) as a guide.
-- The [video](https://us02web.zoom.us/rec/share/VSMksAREm3fTCWO5uQYqupV8CpjN41QTiEHWAHff6iVzEaLT8ONc35wISKOHSyAU.0UJIHuV9VY6tzs0h) from morning class is also available, where we talk about DOM mapipulation.
-Passcode: .TJ4@Nw@
+##  🐈 Events 🐶
+- Use the [notes](https://github.com/Momentum-Team-13/notes/blob/main/js-dom.md)) and the [example from class](https://codepen.io/rlconley/pen/KKQZPmP) as a guide.
+
 
 ## 🔖 Resources to use as reference
 
@@ -40,6 +35,7 @@ Passcode: .TJ4@Nw@
 - [MDN Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) -> this is a huge list of all the available events, useful mainly to get an idea of what's possible
 - [DOM Manipulation with Vanilla JS](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
 - [How JS Event Delegation Works](https://davidwalsh.name/event-delegate)
+
 - [Chapters 13-15 of Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### ⭐️ EXTRA/TMI

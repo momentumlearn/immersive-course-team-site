@@ -2,36 +2,26 @@
 layout: post
 title: Getting Data Using APIs with JS and Fetch
 tags: phase-1 javascript js fetch api json ajax
-date: 2022-04-05
+date: 2022-06-01
 parent: Phase 1 Front End
 nav_order: 10
 ---
 
-{{ page.date | date_to_long_string }}
-{: .page-date}
-
-
 ## Today's topics
 
 - Today's first goal is to complete the customer database.
-- The next task is to prepare to start working with fetch and AJAX tomorrow.
+- The next task is to prepare to start working with fetch and AJAX.
     - Using JSON for data
     - Basics of HTTP requests
     - Make GET requests with Insomnia client
     - Make GET requests using the Fetch API and display response data on a page
 
-## ✅ Pre-work for before class tomorrow
-- _Complete_ Thinkific: JavaScript and the Fetch API
-- _Complete_ [Code Academy Lesson on Fetch](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/js-requests-with-fetch-api/exercises/js-requests-with-fetch-api-intro)
-- _Read_ [AJAX explained by analogy](https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/)
-
-
 ## 🎯 Project: Choose Your Own Adventure
 
-Your assignment is to do _one_ of the following assignments. Whichever you choose, it will be due on Friday morning.
+Your assignment is to do _one_ of the following assignments. Whichever you choose, it will be due on Monday morning.
 
-- 🌶 [AJAX GitHub profile](https://classroom.github.com/a/AjNfpp5A)
-- 🌶🌶 [AJAX Currency Converter](https://classroom.github.com/a/Nw7vOyEp)
+- 🌶 [AJAX GitHub profile](https://classroom.github.com/a/TwznLlWw)
+- 🌶🌶 [AJAX Currency Converter](https://classroom.github.com/a/HFS8gTsM)
 
 ## 🔖 Resources
 
@@ -52,6 +42,8 @@ Your assignment is to do _one_ of the following assignments. Whichever you choos
 - [MDN fetch() method](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
 - [CSS-Tricks article on using Fetch](https://css-tricks.com/using-fetch/)
 - [MDN Working with JSON](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+- [Code Academy Lesson on Fetch](https://www.codecademy.com/courses/learn-intermediate-javascript/lessons/js-requests-with-fetch-api/exercises/js-requests-with-fetch-api-intro)
+- [AJAX explained by analogy](https://blog.codeanalogies.com/2018/01/15/ajax-basics-explained-by-working-at-a-fast-food-restaurant/)
 
 ### ⭐ EXTRA/TMI
 
@@ -61,5 +53,5 @@ Fetch requests use JavaScript **promises** to handle responses. Promises are a _
 
 ## 🦉 Notes
 
-- [Notes on AJAX](https://github.com/Momentum-Team-12/notes/blob/main/js-ajax.md)
-- [Starter code for the assignment: using fetch with the Github API](https://github.com/Momentum-Team-12/ajax-and-the-github-api-rlconley)
+- [Notes on AJAX](https://github.com/Momentum-Team-13/notes/blob/main/js-ajax.md)
+- [Starter code for the assignment: using fetch with the Github API](https://github.com/Momentum-Team-13/github-api-portfolio-rlconley)

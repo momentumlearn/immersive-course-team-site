@@ -177,3 +177,38 @@ ul#markdown-toc > li::before {
     color: #959396;
     content: "";
 }
+
+.label-mmntm-red {
+  background-color: $brand-ruby-red;
+  &:hover{
+    background-color: darken($brand-ruby-red, 20%);
+  }
+}
+
+.label-mmntm-purple {
+  background-color: $brand-violet;
+  &:hover{
+    background-color: darken($brand-violet, 20%);
+  }
+}
+
+.label-mmntm-lt-blue {
+  background-color: $brand-sky-blue;
+  &:hover{
+    background-color: darken($brand-sky-blue, 20%);
+  }
+}
+
+.label-mmntm-green {
+  background-color: $brand-branch-green;
+  &:hover{
+    background-color: darken($brand-branch-green, 20%);
+  }
+}
+
+.label-mmntm-blue {
+  background-color: $brand-royal-blue;
+  &:hover{
+    background-color: darken($brand-royal-blue, 20%);
+  }
+}

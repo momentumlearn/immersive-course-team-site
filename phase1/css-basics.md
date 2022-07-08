@@ -2,13 +2,10 @@
 layout: post
 title: 'CSS: The Basics'
 tags: phase-1 css
-date: 2022-03-23
+date: 2022-05-18
 parent: Phase 1 Front End
 nav_order: 3
 ---
-
-{{ page.date | date_to_long_string }}
-{: .page-date}
 
 ## 🗓️ Today's topics
 
@@ -21,7 +18,6 @@ nav_order: 3
 ## ✅ TODO today
 
 Between classes:
-- Thinkific *CSS and Styling unit*
 
 Begin working on your dog adoption website. 🐕
 
@@ -29,9 +25,9 @@ You won't be able to do all of it at once. *Start with the html*, adding in clas
 
 ## 🎯 Weekend Project: Build a Dog Adoption website
 
-[Link to the assignment invitation](https://classroom.github.com/a/jwvXQEFQ)
+[Link to the assignment invitation](https://classroom.github.com/a/XNxyGiQf)
 
-This assignment is due on **Monday, March 28**, at 9:00 am.
+This assignment is due on **Monday, May 23**, at 9:00 am.
 
 ## 🔖 Resources
 
@@ -63,3 +59,4 @@ This assignment is due on **Monday, March 28**, at 9:00 am.
 
 - [CSS Basics notes](https://github.com/Momentum-Team-12/notes/blob/main/css-basics.md)
 - [Example from class: bear site with CSS](https://github.com/Momentum-Team-12/example--html)
+

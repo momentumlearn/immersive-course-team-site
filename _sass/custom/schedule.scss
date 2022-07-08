@@ -110,5 +110,9 @@
       background-color: $brand-royal-blue;
     }
 
+    &.morning-class, &.afternoon-class {
+      background-color: $brand-branch-green;
+    }
+
   }
 }

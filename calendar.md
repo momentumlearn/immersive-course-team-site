@@ -8,8 +8,11 @@ nav_order: 5
 
 # Topics by Date
 
-_Note: this schedule is subject to change._
+_Note: These are listed chronologically newest to oldest_
+
+{% assign modules = site.modules | reverse %}
 
 {% for module in site.modules %}
   {{ module }}
 {% endfor %}
+

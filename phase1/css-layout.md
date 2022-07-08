@@ -1,13 +1,10 @@
 ---
 layout: post
 title: 'CSS: Layout'
-date: 2022-03-24
+date: 2022-05-19
 parent: Phase 1 Front End
 nav_order: 4
 ---
-
-{{ page.date | date_to_long_string }}
-{: .page-date}
 
 ## 🗓️ Today's topics
 
@@ -17,8 +14,6 @@ nav_order: 4
 ## 🎯 Weekend Project: Dog Adoption
 
 Continue working on your dog adoption website assignment. It's due Monday morning.
-
-Today you should begin to tackle layout for your site. **It is not important that you only have 3 dogs per row on your page** but your dogs should be laid out in a grid. If you use flexbox, they should rearrange nicely depending on the width of the browser window.
 
 ## 🔖 Resources
 
@@ -75,6 +70,7 @@ Before we had flexbox or grid built into CSS, we relied on floats for layout. Yo
 
 ## 🦉 Code, Notes & Code
 
-- [Notes on CSS Layout](https://github.com/Momentum-Team-12/notes/blob/main/css-layout.md)
-- [Notes on Responsive CSS](https://github.com/Momentum-Team-12/notes/blob/main/css-responsive.md)
-- [CSS Flexbox](https://github.com/Momentum-Team-12/example--css-flexbox)
+- [Notes on CSS Layout](https://github.com/Momentum-Team-13/notes/blob/main/css-layout.md)
+- [Notes on Responsive CSS](https://github.com/Momentum-Team-13/notes/blob/main/css-responsive.md)
+- [CSS Flexbox](https://github.com/Momentum-Team-13/example--css-flexbox)
+- [Flexbox Example from class](https://github.com/Momentum-Team-13/example--css-flexbox)
