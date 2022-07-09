@@ -9,7 +9,7 @@ parent: Calendar
 
 {% for topic in topics %}
   {{ topic.date | date: "%B %-d" }}
-  : [{{ topic.title }}]({{ topic.url }})
+  : [{{ topic.title }}]({% link {{topic.url}} %})
     : [Lab]({{ topic.lab_url }}){: .label .label-mmntm-purple } [Resources]({{ topic.resources_url }}){: .label .label-mmntm-red }
 {% endfor %}
 

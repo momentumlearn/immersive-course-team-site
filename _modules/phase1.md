@@ -8,6 +8,6 @@ url: 'this-is-a-url/ok'
 
 {% for topic in topics %}
   {{ topic.date | date: "%B %-d" }}
-  : [{{ topic.title }}](#)
+  : [{{ topic.title }}]({% link {{topic.url}} %})
     : [Lab]({{ topic.lab_url }}){: .label .label-mmntm-purple } [Resources]({{ topic.resources_url }}){: .label .label-mmntm-red }
 {% endfor %}
