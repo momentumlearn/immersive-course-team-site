@@ -1,6 +1,7 @@
 ---
 title: CSS Layout
 category: front end
+parent: Resources
 layout: resource_list
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: JavaScript & the DOM
 category: js
+parent: Resources
 layout: resource_list
 ---
 

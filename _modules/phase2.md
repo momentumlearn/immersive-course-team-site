@@ -1,16 +1,15 @@
 ---
 title: Phase 2 Back End
-parent: Calendar
-
+phase: 2
 ---
 
-{% assign topics = site.data.topics_by_date | where: 'phase', '2' | reverse %}
+{% assign topics = site.data.phase2_topics | reverse %}
 
 
 {% for topic in topics %}
   {{ topic.date | date: "%B %-d" }}
   : [{{ topic.title }}]({% link {{topic.url}} %})
-    : [Lab]({{ topic.lab_url }}){: .label .label-mmntm-purple } [Resources]({{ topic.resources_url }}){: .label .label-mmntm-red }
+    : [Lab]({{ topic.lab_url }}){: .label .label-mmntm-purple } [Resources]({% link {{ topic.resources_url }} %}){: .label .label-mmntm-red }
 {% endfor %}
 
 

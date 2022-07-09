@@ -2,6 +2,7 @@
 layout: page
 title: Resources
 description: Big list of resources by topic
+has_children: true
 has_toc: true
 nav_order: 8
 ---
@@ -9,7 +10,7 @@ nav_order: 8
 # Resources
 {: .no_toc }
 
-<details open markdown="block">
+<!-- <details open markdown="block">
 
   <summary>
     Table of contents
@@ -72,4 +73,4 @@ nav_order: 8
 
 {% for resource in orientation_resources %}
   {{ resource }}
-{% endfor %}
+{% endfor %} -->

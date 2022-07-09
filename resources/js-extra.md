@@ -1,6 +1,7 @@
 ---
 title: JavaScript Extra Stuff
 category: js
+parent: Resources
 layout: resource_list
 ---
 

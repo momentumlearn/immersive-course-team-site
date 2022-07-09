@@ -16,7 +16,7 @@
 title: Momentum Team-X Course Site
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
-baseurl: 'immersive-course-team-site' # the subpath of your site, e.g. /blog
+baseurl: '/immersive-course-team-site' # the subpath of your site, e.g. /blog
 url: 'https://momentumlearn.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
 
@@ -40,28 +40,18 @@ collections:
   schedules:
     name: schedules
     nav_exclude: false
-  daily_posts:
-    name: daily_posts
+  short_posts:
+    name: short_posts
     output: true
     nav_exclude: false
   modules:
     name: modules
     output: true
     nav_exclude: true
-  resources:
-    name: resources
-    output: true
-    nav_exclude: true
 
 
 # Default layouts for each collection type
 defaults:
-  - scope:
-      path: 'phase1/'
-      type: phase1
-    values:
-      layout: page
-      subpath: '/assets/images/'
   - scope:
       path: ''
       type: modules
@@ -73,10 +63,10 @@ defaults:
     values:
       layout: schedule
   - scope:
-      path: daily_posts
+      path: short_posts
       type: pages
     values:
-      layout: daily_post
+      layout: short_post
 
 compress_html:
   clippings: all

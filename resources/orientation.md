@@ -1,6 +1,7 @@
 ---
 title: Orientation and Setup
 category: orientation
+parent: Resources
 layout: resource_list
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: UI/UX and Design
 category: front end
+parent: Resources
 layout: resource_list
 ---
 

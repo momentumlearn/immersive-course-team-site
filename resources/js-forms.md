@@ -1,6 +1,7 @@
 ---
 title: Forms and Form Validation
 category: js
+parent: Resources
 layout: resource_list
 ---
 

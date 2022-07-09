@@ -10,9 +10,9 @@ nav_order: 5
 
 _Note: These are listed chronologically newest to oldest_
 
-{% assign modules = site.modules | reverse %}
+{% assign modules = site.modules | sort: "phase" | reverse %}
 
-{% for module in site.modules %}
+{% for module in modules %}
   {{ module }}
 {% endfor %}
 

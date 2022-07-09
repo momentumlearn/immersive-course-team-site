@@ -1,6 +1,7 @@
 ---
 title: JavaScript Arrays
 category: js
+parent: Resources
 layout: resource_list
 ---
 

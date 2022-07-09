@@ -1,6 +1,7 @@
 ---
 title: Python Basics
 category: python
+parent: Resources
 layout: resource_list
 ---
 

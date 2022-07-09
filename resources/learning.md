@@ -1,9 +1,11 @@
 ---
 title: Pro Tips for Learning To Code
 category: learning
+parent: Resources
 layout: resource_list
 ---
 
+- [So You Want to Be a Wizard](https://jvns.ca/wizard-zine.pdf)
 - [Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek](https://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek/)
 
 ### 💁 Asking Questions + Getting Help

@@ -1,10 +1,10 @@
 ---
 title: JavaScript Basics
 category: js
+parent: Resources
 layout: resource_list
 ---
 
-- [So You Want to Be a Wizard](https://jvns.ca/wizard-zine.pdf)
 - [MDN JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [JS Equality Table](https://dorey.github.io/JavaScript-Equality-Table/)
 - [MDN Falsy in JS](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)

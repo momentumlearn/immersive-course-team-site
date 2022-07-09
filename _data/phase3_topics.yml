@@ -1,0 +1,21 @@
+- title: Welcome to Phase 3
+  tag: all
+  phase: 3
+  date: 2022-07-11
+  url: phase3/welcome.md
+  lab_url: #
+  resources_url: /resources/python
+- title: Welcome to Advanced Back End
+  tag: be
+  phase: 3
+  date: 2022-07-11
+  url: phase3/welcome.md
+  lab_url: #
+  resources_url: /resources/python
+- title: Welcome to Advanced Front End
+  tag: fe
+  phase: 3
+  date: 2022-07-11
+  url: phase3/welcome.md
+  lab_url: #
+  resources_url: /resources/python

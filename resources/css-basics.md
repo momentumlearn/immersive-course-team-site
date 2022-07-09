@@ -1,6 +1,7 @@
 ---
 title: CSS Basics
 category: front end
+parent: Resources
 layout: resource_list
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: CSS Extra Stuff
 category: front end
+parent: Resources
 layout: resource_list
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: Week 1 Post
+title: Another post, another day
 week: 1
 date: 2022-07-05
-layout: daily_post
+layout: short_post
 parent: TODOs
 nav_order: 2
 ---

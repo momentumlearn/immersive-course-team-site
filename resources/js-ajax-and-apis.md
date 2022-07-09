@@ -1,6 +1,7 @@
 ---
 title: AJAX & APIs
 category: js
+parent: Resources
 layout: resource_list
 ---
 
