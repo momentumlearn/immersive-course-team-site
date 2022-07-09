@@ -88,3 +88,5 @@ compress_html:
 
 plugins:
   - jekyll-remote-theme
+
+sass_dir: /_sass
