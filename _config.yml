@@ -16,8 +16,8 @@
 title: Momentum Team-X Course Site
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
-baseurl: '' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: 'immersive-course-team-site' # the subpath of your site, e.g. /blog
+url: 'https://momentumlearn.github.io'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache"]
 
 # Theme settings
