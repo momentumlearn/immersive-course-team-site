@@ -1,0 +1,1160 @@
+{"0": {
+    "doc": "Home",
+    "title": "Software Engineering Immersive",
+    "content": "Today’s topics are on the calendar, along with links to course material, resources, and lab assignments. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#software-engineering-immersive",
+    "relUrl": "/index.html#software-engineering-immersive"
+  },"1": {
+    "doc": "Home",
+    "title": "✨ What’s up today",
+    "content": "Monday July 11, 2022 ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#-whats-up-today",
+    "relUrl": "/index.html#-whats-up-today"
+  },"2": {
+    "doc": "Home",
+    "title": "Welcome to Phase 3",
+    "content": "During this phase, your daily post will be specific to your specialization, either front-end or back-end. This post is for everyone. There are two additional posts today, one each for front-end and back-end topics. These links are also on today’s calendar. | Today’s front-end topics | Today’s back-end topics | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html",
+    "relUrl": "/index.html"
+  },"3": {
+    "doc": "Home",
+    "title": "🕘 Schedule",
+    "content": "Class meetings are on Monday, Tuesday, &amp; Thursday . | 9:30-11:30 🐻 Back End team meeting | 2:00-4:00 🦊 Front End team meeting | 9:30-5:30, non-meeting times are Lab time | . Wednesday is Lab Day, all day . | 9:30-5:30 Lab time | . Friday is Lab Day as usual . | 9:30-10:30 Huddle (usually; check your calendar) | 11:00-12:00 Career Services (usually; check your calendar) | 1:00-5:30 Lab time | . Your team meets either during the morning or the afternoon. The rest of the day is lab time, so we’ll expect to see you online and working. Please let us know if you will be unavailable during work hours. During lab time, please read/watch/listen to the required readings, videos, and podcasts and work on your lab projects. You are welcome to use the classroom Zoom link and/or the co-working Zoom during lab times. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#-schedule",
+    "relUrl": "/index.html#-schedule"
+  },"4": {
+    "doc": "Home",
+    "title": "🗓️ Today’s Topics for both Front and Back End",
+    "content": ". | Intro to Phase 3! | Note-taking as a developer | Setting goals for Phase 3 | Intro to Advanced Back-End or Advanced Front-End | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#%EF%B8%8F-todays-topics-for-both-front-and-back-end",
+    "relUrl": "/index.html#️-todays-topics-for-both-front-and-back-end"
+  },"5": {
+    "doc": "Home",
+    "title": "🤨 What does “Advanced” Even Mean?",
+    "content": ". ⚠️ And even for experienced engineers, their experience is limited to certain areas, and completely dependent on having had opportunities to develop that experience. What you don’t know will always outweigh what you do as long as you work in a field that moves as fast as tech does. For an insightful take on being comfortable with what you don’t know, read this great blog post by one of the most well-respected and influential JavaScript developers out there right now: Dan Abramov, Things I Don’t Know . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#-what-does-advanced-even-mean",
+    "relUrl": "/index.html#-what-does-advanced-even-mean"
+  },"6": {
+    "doc": "Home",
+    "title": "✅ TODO for Everyone Today",
+    "content": ". | Reflect on where you are in this program. You’ve learned a lot and you have a lot left to learn. What are YOUR goals? . | Complete this Goals Reflection exercise to re-energize for what’s ahead and focus on what you want to accomplish and post a tip from your CONTINUE list, or a request for advice for something that you’ve been struggling with to our team Slack channel. | Create a schedule that you can stick to for the times you will not be in class (see the time management resources below for some suggestions on managing your time effectively). | Learn Markdown See the resources section below. | Pick a note-taking application that will let you take notes while you read and work. It’s important that it can properly format code blocks. Here are some options (don’t overthink this choice – just pick something that you feel comfortable with). | VS Code (with this option you could create a simple git repo with markdown files) | BoostNote | Notion | Typora | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#-todo-for-everyone-today",
+    "relUrl": "/index.html#-todo-for-everyone-today"
+  },"7": {
+    "doc": "Home",
+    "title": "🔖 Resources for Everyone",
+    "content": "Time Management . | The Pomodoro Technique for Time Management &amp; Productivity . | Zapier’s list of Pomodoro Apps | . | Time Blocking | Common Time Management Problems &amp; Solutions | . Tech Pros Have Good Advice for You . | Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck | Katrina Owen, How to Fail Without Being a Loser | Tom Stuart, The Most Common Problem In Software Development And How To Fix It | Syntax.fm Podcast: Advice for New Devs | VLC An open source video player that gives you lots more control than YouTube does (like more playback speed options). | . Markdown &amp; Taking Notes . Markdown is an easy-to-learn way to add formatting to plain text and code snippets. It is commonly used in READMEs on GitHub and can even be used to generate HTML. It comes in handy a lot for developers, and you should know how to use it. The .md extension indicates a Markdown file. The pages for this site and every note in your team’s notes repo are formatted in Markdown – have a look on GitHub for examples! . | How to take useful notes as a developer | Mastering Markdown 30-min video course that will help you get proficient with Markdown quickly. | Markdown Guide: Getting Started | Markdown Tutorial | How Note Taking Makes Me a Better Developer | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html#-resources-for-everyone",
+    "relUrl": "/index.html#-resources-for-everyone"
+  },"8": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/index.html",
+    "relUrl": "/index.html"
+  },"9": {
+    "doc": "How to Use This Site",
+    "title": "Navigation",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/about/#navigation",
+    "relUrl": "/about/#navigation"
+  },"10": {
+    "doc": "How to Use This Site",
+    "title": "Table of contents",
+    "content": ". | Important | How to use this site | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/about/#table-of-contents",
+    "relUrl": "/about/#table-of-contents"
+  },"11": {
+    "doc": "How to Use This Site",
+    "title": "Important",
+    "content": "Class meetings happen on Zoom. Link to the Zoom meeting room . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/about/#important",
+    "relUrl": "/about/#important"
+  },"12": {
+    "doc": "How to Use This Site",
+    "title": "How to use this site",
+    "content": ". | About: this page | Announcements: daily updates | Topics By Date: list of topics by date | Schedule/Calendar: calendar View with meeting times | Phases &gt; Topics: also linked from Calendar | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/about/#how-to-use-this-site",
+    "relUrl": "/about/#how-to-use-this-site"
+  },"13": {
+    "doc": "How to Use This Site",
+    "title": "How to Use This Site",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/about/",
+    "relUrl": "/about/"
+  },"14": {
+    "doc": "Calendar",
+    "title": "Topics by Date",
+    "content": "Topics are listed by date, newest to oldest. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/calendar#topics-by-date",
+    "relUrl": "/calendar#topics-by-date"
+  },"15": {
+    "doc": "Calendar",
+    "title": "Phase 3",
+    "content": "July 11 all Welcome to Phase 3 Lab Resources July 11 fe Welcome to Advanced Front End Lab Resources July 11 be Welcome to Advanced Back End Lab Resources ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/calendar#phase-3",
+    "relUrl": "/calendar#phase-3"
+  },"16": {
+    "doc": "Calendar",
+    "title": "Phase 2 Back End",
+    "content": "July 6 Django Wrap Up 🎬 Lab Resources July 1 Django CRUD Lab Resources June 27 Getting Used to Working in Django Lab Resources June 22 Object-Oriented Programming in Python Lab Resources June 16 Python List Comprehensions and Lambdas Lab Resources June 15 Python Lists and Dictionaries Lab Resources June 14 Python Conditionals and Loops Lab Resources June 13 Welcome to Python Lab Resources ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/calendar#phase-2-back-end",
+    "relUrl": "/calendar#phase-2-back-end"
+  },"17": {
+    "doc": "Calendar",
+    "title": "Phase 1 Front End",
+    "content": "June 6 JS and Forms Lab Resources June 1 AJAX &amp; APIs Lab Resources May 31 JavaScript Objects Lab Resources May 26 JS &amp; the DOM Lab Resources May 25 JavaScript Arrays Lab Resources May 24 JavaScript Loops &amp; Functions Lab Resources May 23 JavaScript Basics Lab Resources May 19 CSS Layout Lab Resources May 18 CSS Basics Lab Resources May 17 HTML Lab Resources May 16 Git and the Command Line Lab Resources ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/calendar#phase-1-front-end",
+    "relUrl": "/calendar#phase-1-front-end"
+  },"18": {
+    "doc": "Calendar",
+    "title": "Calendar",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/calendar",
+    "relUrl": "/calendar"
+  },"19": {
+    "doc": "CSS Basics",
+    "title": "CSS Basics",
+    "content": ". | MDN CSS Basics | CSS-Tricks Getting Started with HTML &amp; CSS | Rachel Andrew: How to Learn CSS | CSS Diner -&gt; This goes into a LOT of depth. | MDN CSS Selectors | MDN CSS Reference for Property Names | Hacks for dealing with specificity | The Box Model in CSS | How Box Sizing Works | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/css-basics/",
+    "relUrl": "/resources/css-basics/"
+  },"20": {
+    "doc": "CSS: The Basics",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Styling HTML with CSS | CSS syntax: selectors, properties, values; shorthand properties | Working with color, text and font properties, and backgrounds | The box model, margin, and padding | Units of measurement | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-basics/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase1/css-basics/#️-todays-topics"
+  },"21": {
+    "doc": "CSS: The Basics",
+    "title": "✅ TODO today",
+    "content": "Between classes: . Begin working on your dog adoption website. 🐕 . You won’t be able to do all of it at once. Start with the html, adding in classes for your elements. Think about how to group your elements together so you can apply styles effectively to groups of things. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-basics/#-todo-today",
+    "relUrl": "/phase1/css-basics/#-todo-today"
+  },"22": {
+    "doc": "CSS: The Basics",
+    "title": "🎯 Weekend Project: Build a Dog Adoption website",
+    "content": "Link to the assignment invitation . This assignment is due on Monday, May 23, at 9:00 am. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-basics/#-weekend-project-build-a-dog-adoption-website",
+    "relUrl": "/phase1/css-basics/#-weekend-project-build-a-dog-adoption-website"
+  },"23": {
+    "doc": "CSS: The Basics",
+    "title": "🔖 Resources",
+    "content": "Getting Started . | MDN CSS Basics | CSS-Tricks Getting Started with HTML &amp; CSS | Rachel Andrew: How to Learn CSS | . CSS Selectors &amp; Properties . | CSS Diner -&gt; This goes into a LOT of depth. | MDN CSS Selectors | MDN CSS Reference for Property Names | Hacks for dealing with specificity | . Box Model . | The Box Model in CSS | How Box Sizing Works | . ⭐️ EXTRA/TMI . | A Look Back at the History of CSS | 58 bytes of css to look great nearly everywhere | Coolors Color Palette Generator | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-basics/#-resources",
+    "relUrl": "/phase1/css-basics/#-resources"
+  },"24": {
+    "doc": "CSS: The Basics",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | CSS Basics notes | Example from class: bear site with CSS | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-basics/#-code--notes",
+    "relUrl": "/phase1/css-basics/#-code--notes"
+  },"25": {
+    "doc": "CSS: The Basics",
+    "title": "CSS: The Basics",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-basics/",
+    "relUrl": "/phase1/css-basics/"
+  },"26": {
+    "doc": "UI/UX and Design",
+    "title": "UI/UX and Design",
+    "content": ". | 10 Cheat Codes for designing user interfaces | 7 Rules for Creating Gorgeous UIs | 7 Rules Part Two | Practical Color Theory for People Who Code | Typography for Developers | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/css-design/",
+    "relUrl": "/resources/css-design/"
+  },"27": {
+    "doc": "CSS Extra Stuff",
+    "title": "CSS Extra Stuff",
+    "content": ". | A Look Back at the History of CSS | 58 bytes of css to look great nearly everywhere | Coolors Color Palette Generator | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/css-extra/",
+    "relUrl": "/resources/css-extra/"
+  },"28": {
+    "doc": "CSS: Layout",
+    "title": "🗓️ Today’s topics",
+    "content": ". | CSS backgrounds | CSS layout with flexbox | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-layout/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase1/css-layout/#️-todays-topics"
+  },"29": {
+    "doc": "CSS: Layout",
+    "title": "🎯 Weekend Project: Dog Adoption",
+    "content": "Continue working on your dog adoption website assignment. It’s due Monday morning. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-layout/#-weekend-project-dog-adoption",
+    "relUrl": "/phase1/css-layout/#-weekend-project-dog-adoption"
+  },"30": {
+    "doc": "CSS: Layout",
+    "title": "🔖 Resources",
+    "content": "Flexbox . | CSS-Tricks A Complete Guide to Flexbox | Flexbox Froggy | How Flexbox Works with gifs | More Flexbox with gifs | CSS-Tricks Flexbox Layout Thought Process | CSS-Tricks flex property | demo flexbox nav menu with adjustable property values | . General CSS . | CSS-Tricks Guide to Centering Things | CSS-Tricks Tinted Images with Multiple Backgrounds | MDN: Use CSS to solve common problems | . Responsive CSS . | MDN Using Media Queries | How to use media queries alongside Grid and Flexbox | . Design . | 10 Cheat Codes for designing user interfaces | 7 Rules for Creating Gorgeous UIs | 7 Rules Part Two | Practical Color Theory for People Who Code | Typography for Developers | . ⭐️ EXTRA/TMI . Layout techniques for CSS include a lot of options other than flexbox. This reference summarizes them and gives you a good sense of other things you might see. | MDN: CSS Layout Reference | . A popular alternative to flexbox for layout is called “grid”, also built into CSS. With flexbox you choose to line up your boxes either vertically or horizontally, but with grid you can specify both horizontal and vertical arrangement in the same box. | CSS-Tricks Complete Guide to Grid | Grid Garden (from the makers of Flexbox Froggy) | . Jen Simmons is a former Mozilla developer and educator with a great series on YouTube to teach you css layout best practices using grid and flexbox. | Jen Simmons: Layout Land | . Before we had flexbox or grid built into CSS, we relied on floats for layout. You should not be using floats to lay out your pages, but you may still see them in other people’s code. Because of that, you may want to familiarize yourself at some point. | Floats 101 Demo | Simple float example | CSS-Tricks All About Floats | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-layout/#-resources",
+    "relUrl": "/phase1/css-layout/#-resources"
+  },"31": {
+    "doc": "CSS: Layout",
+    "title": "🦉 Code, Notes &amp; Code",
+    "content": ". | Notes on CSS Layout | Notes on Responsive CSS | CSS Flexbox | Flexbox Example from class | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-layout/#-code-notes--code",
+    "relUrl": "/phase1/css-layout/#-code-notes--code"
+  },"32": {
+    "doc": "CSS: Layout",
+    "title": "CSS: Layout",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/css-layout/",
+    "relUrl": "/phase1/css-layout/"
+  },"33": {
+    "doc": "CSS Layout",
+    "title": "CSS Layout",
+    "content": ". | CSS-Tricks Guide to Centering Things | CSS-Tricks Tinted Images with Multiple Backgrounds | MDN: Use CSS to solve common problems | CSS-Tricks A Complete Guide to Flexbox | Flexbox Froggy | How Flexbox Works with gifs | More Flexbox with gifs | CSS-Tricks Flexbox Layout Thought Process | CSS-Tricks flex property | demo flexbox nav menu with adjustable property values | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/css-layout/",
+    "relUrl": "/resources/css-layout/"
+  },"34": {
+    "doc": "Responsive CSS",
+    "title": "Responsive CSS",
+    "content": ". | MDN Using Media Queries | How to use media queries alongside Grid and Flexbox | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/css-responsive/",
+    "relUrl": "/resources/css-responsive/"
+  },"35": {
+    "doc": "Git and Command Line",
+    "title": "Git and Command Line",
+    "content": "Command Line . | Really friendly command-line intro | . Git . | Really friendly Git intro | Git Cheat Sheet PDF | Git handbook from GitHub | Git Command Explorer – this tool lets you look up commands by what you are trying to do | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/git-and-cli/",
+    "relUrl": "/resources/git-and-cli/"
+  },"36": {
+    "doc": "HTML",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Learn about HTML tags and elements | Create a page with HTML | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase1/html/#️-todays-topics"
+  },"37": {
+    "doc": "HTML",
+    "title": "Intro to GitHub Classroom",
+    "content": "We are using a tool called GitHub classroom during this course. For each assignment, GitHub classroom will generate a repository (repo) on GitHub for each person to work in. Each day we will share an assignment invitation here on this page. Clicking on the link will take you to a page where you will see a message that looks something like this: . You’ll see your github username as part of the repo name instead of rlconley. When you accept the assignment, GitHub will create your homework repo and, when it is done, give you a link to it (from now on, this is the link you will use to see your project on GitHub, NOT the assignment invitation link). Go to that newly created repo and click on the green button to “Clone or download” your repo. This will copy the repo’s url to your clipboard. If you aren’t sure how to do this, there is a link to a video demo below. In your terminal, navigate to the folder where you intend to keep your projects. When you are in the directory you want to be in (check with pwd!), type git clone url-for-your-repo, but in place of url-for-your-repo, paste in the url you copied from GitHub. You’ll see output indicating the repo is being cloned. When it’s done, make sure you cd into it and type git status to see that you are in a git repo. Open this repo in VS Code (an easy way to do this is to type code . when you are in the assignment repo) and do your work here. Add and commit in the terminal as you work. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/#intro-to-github-classroom",
+    "relUrl": "/phase1/html/#intro-to-github-classroom"
+  },"38": {
+    "doc": "HTML",
+    "title": "Using VS Code",
+    "content": "VS Code (or Visual Studio Code) is a code editor made by Microsoft. It is free and open source, and it’s used by many professional developers these days. See Getting Started with VS Code for an overview and a video intro to using this tool. NOTE: The video begins with installation instructions, which you can skip. You installed this with homebrew in the computer setup instructions (by running brew install visual-studio-code), so you should be able to see an icon for Visual Studio Code in your Applications folder. If you have not installed it yet, make sure you do. We will use it every day from now on. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/#using-vs-code",
+    "relUrl": "/phase1/html/#using-vs-code"
+  },"39": {
+    "doc": "HTML",
+    "title": "🎯 Project: Build a small business website",
+    "content": "You submit this assignment by pushing your code to your assignment repo on GitHub. Please get as far as you can before class on Wednesday. | Link to the assignment invitation | Quick video showing how to clone your assignment repo | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/#-project-build-a-small-business-website",
+    "relUrl": "/phase1/html/#-project-build-a-small-business-website"
+  },"40": {
+    "doc": "HTML",
+    "title": "🔖 Resources",
+    "content": "Accessibility Chrome Extensions . | Beeline Reader | Speech to Text | Text to Speech | Dyslexia- Friendly VS Code Theme | . HTML . | MDN Getting Started with HTML | MDN HTML Resources Page | MDN HTML Element Reference | . Tools &amp; Technical Help . | Asking technical questions: Your Brain’s API This talk from PyCon 2015 is super useful and relevant. Worth 30 minutes of your time. | Getting Started with VS Code | How to use VS Code LiveShare | VS Code LiveShare Extension | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/#-resources",
+    "relUrl": "/phase1/html/#-resources"
+  },"41": {
+    "doc": "HTML",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | HTML notes | HTML example | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/#-code--notes",
+    "relUrl": "/phase1/html/#-code--notes"
+  },"42": {
+    "doc": "HTML",
+    "title": "HTML",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/html/",
+    "relUrl": "/phase1/html/"
+  },"43": {
+    "doc": "HTML",
+    "title": "HTML",
+    "content": ". | MDN Getting Started with HTML | MDN HTML Resources Page | MDN HTML Element Reference | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/html/",
+    "relUrl": "/resources/html/"
+  },"44": {
+    "doc": "AJAX & APIs",
+    "title": "AJAX & APIs",
+    "content": "HTTP . | MDN: HTTP Messages | Response Codes With Cats | . APIs . | Illustrated Dev: Meet the Robowaiter APIs Serving Us Data | Insomnia client | GitHub API Docs | . AJAX, Fetch, &amp; JSON . | MDN AJAX | MDN Fetch API | MDN fetch() method | CSS-Tricks article on using Fetch | MDN Working with JSON | . Fetch requests use JavaScript promises to handle responses. Promises are a much bigger topic than we will get into right now, but if you want to know more about what a promise is and how to use it beyond the context of AJAX requests, you can start with the MDN documentation about it. | MDN JS Promise | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-ajax-and-apis/",
+    "relUrl": "/resources/js-ajax-and-apis/"
+  },"45": {
+    "doc": "Getting Data Using APIs with JS and Fetch",
+    "title": "Today’s topics",
+    "content": ". | Today’s first goal is to complete the customer database. | The next task is to prepare to start working with fetch and AJAX. | Using JSON for data | Basics of HTTP requests | Make GET requests with Insomnia client | Make GET requests using the Fetch API and display response data on a page | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-ajax/#todays-topics",
+    "relUrl": "/phase1/js-ajax/#todays-topics"
+  },"46": {
+    "doc": "Getting Data Using APIs with JS and Fetch",
+    "title": "🎯 Project: Choose Your Own Adventure",
+    "content": "Your assignment is to do one of the following assignments. Whichever you choose, it will be due on Monday morning. | 🌶 AJAX GitHub profile | 🌶🌶 AJAX Currency Converter | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-ajax/#-project-choose-your-own-adventure",
+    "relUrl": "/phase1/js-ajax/#-project-choose-your-own-adventure"
+  },"47": {
+    "doc": "Getting Data Using APIs with JS and Fetch",
+    "title": "🔖 Resources",
+    "content": "HTTP . | MDN: HTTP Messages | Response Codes With Cats | . APIs . | Illustrated Dev: Meet the Robowaiter APIs Serving Us Data | Insomnia client | GitHub API Docs | . AJAX, Fetch, &amp; JSON . | MDN AJAX | MDN Fetch API | MDN fetch() method | CSS-Tricks article on using Fetch | MDN Working with JSON | Code Academy Lesson on Fetch | AJAX explained by analogy | . ⭐ EXTRA/TMI . Fetch requests use JavaScript promises to handle responses. Promises are a much bigger topic than we will get into right now, but if you want to know more about what a promise is and how to use it beyond the context of AJAX requests, you can start with the MDN documentation about it. | MDN JS Promise | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-ajax/#-resources",
+    "relUrl": "/phase1/js-ajax/#-resources"
+  },"48": {
+    "doc": "Getting Data Using APIs with JS and Fetch",
+    "title": "🦉 Notes",
+    "content": ". | Notes on AJAX | Starter code for the assignment: using fetch with the Github API | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-ajax/#-notes",
+    "relUrl": "/phase1/js-ajax/#-notes"
+  },"49": {
+    "doc": "Getting Data Using APIs with JS and Fetch",
+    "title": "Getting Data Using APIs with JS and Fetch",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-ajax/",
+    "relUrl": "/phase1/js-ajax/"
+  },"50": {
+    "doc": "JavaScript Arrays",
+    "title": "JavaScript Arrays",
+    "content": ". | MDN Loops and Iteration | MDN Array | A pretty good explanation of map, filter, and reduce | map, filter, and reduce in a tweet | A Visualization of What Reduce Does | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-arrays/",
+    "relUrl": "/resources/js-arrays/"
+  },"51": {
+    "doc": "JavaScript Arrays",
+    "title": "🗓️Today’s topics",
+    "content": ". | Using arrays | Iteration: using loops with arrays | Transforming arrays with map, reduce, and filter | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-arrays/#%EF%B8%8Ftodays-topics",
+    "relUrl": "/phase1/js-arrays/#️todays-topics"
+  },"52": {
+    "doc": "JavaScript Arrays",
+    "title": "🎯 Project",
+    "content": "JS Calculator Part 1 . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-arrays/#-project",
+    "relUrl": "/phase1/js-arrays/#-project"
+  },"53": {
+    "doc": "JavaScript Arrays",
+    "title": "🔖 Resources",
+    "content": ". | MDN Loops and Iteration | MDN Array | MDN Bucles e iteración, Arrays en español . | A pretty good explanation of map, filter, and reduce | map, filter, and reduce in a tweet | A Visualization of What Reduce Does | . ⭐️ EXTRA/TMI . | Eloquent JavaScript Chapter 5: Higher Order Functions - This is a pretty intense read but it includes examples of map, filter, and reduce. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-arrays/#-resources",
+    "relUrl": "/phase1/js-arrays/#-resources"
+  },"54": {
+    "doc": "JavaScript Arrays",
+    "title": "🦉 Code, Notes &amp; Video",
+    "content": ". | JavaScript Arrays notes | Array examples from notes codepen | Rebecca’s video on for loops &amp; while loops | Rebecca’s video on for of loops | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-arrays/#-code-notes--video",
+    "relUrl": "/phase1/js-arrays/#-code-notes--video"
+  },"55": {
+    "doc": "JavaScript Arrays",
+    "title": "JavaScript Arrays",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-arrays/",
+    "relUrl": "/phase1/js-arrays/"
+  },"56": {
+    "doc": "JavaScript Basics",
+    "title": "JavaScript Basics",
+    "content": ". | MDN JavaScript Basics | JS Equality Table | MDN Falsy in JS | MDN Truthy in JS | MDN JS Guide | JS for Cats If you want a low-key walk through of basics that is full of 😺 😼 😹 🐈‍⬛ 🐈, this is pretty helpful. It’s older so you will see references to the var keyword instead of let or const. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-basics/",
+    "relUrl": "/resources/js-basics/"
+  },"57": {
+    "doc": "JavaScript Basics",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Basic programming concepts in JavaScript | Using variables, data types, conditionals, loops, and functions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-basics/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase1/js-basics/#️-todays-topics"
+  },"58": {
+    "doc": "JavaScript Basics",
+    "title": "🎯 Project: Free Code Camp JavaScript Exercises",
+    "content": "First half due Tuesday morning . English: JavaScript practice exercises, from the beginning through “Shopping List” for tomorrow morning. Español: Los mismos ejercisios en Español de ‘Comenta tu código’ a ‘Lista de Compras’ antes del martes por la mañana. ✅ TODO Today . | Log in to http://classroom.momentumlearn.com and complete your self-evaluation from last week if you have not yet. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-basics/#-project-free-code-camp-javascript-exercises",
+    "relUrl": "/phase1/js-basics/#-project-free-code-camp-javascript-exercises"
+  },"59": {
+    "doc": "JavaScript Basics",
+    "title": "🔖 Resources",
+    "content": ". | So You Want to Be a Wizard | MDN JavaScript Basics | MDN JavaScript Basics Español | JS Equality Table | MDN Truthy in JS | MDN Truthy in JS Español | MDN Falsy in JS | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-basics/#-resources",
+    "relUrl": "/phase1/js-basics/#-resources"
+  },"60": {
+    "doc": "JavaScript Basics",
+    "title": "🦉 Notes",
+    "content": ". | Intro to JS Notes/Slides | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-basics/#-notes",
+    "relUrl": "/phase1/js-basics/#-notes"
+  },"61": {
+    "doc": "JavaScript Basics",
+    "title": "JavaScript Basics",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-basics/",
+    "relUrl": "/phase1/js-basics/"
+  },"62": {
+    "doc": "JavaScript and the DOM",
+    "title": "Today’s topics",
+    "content": ". | Using JS in the browser | The DOM: the Document Object Model | DOM manipulation with JS | Events in JS | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-dom/#todays-topics",
+    "relUrl": "/phase1/js-dom/#todays-topics"
+  },"63": {
+    "doc": "JavaScript and the DOM",
+    "title": "🎯 Project: JavaScript Calculator",
+    "content": "This assignment is due Tuesday, May 31. No Class Mon, May 30 . If you complete part 1, continue to part 2. Continue in the same repository as part 1, nothing additional to clone. You can read the instructions for part 2 here. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-dom/#-project-javascript-calculator",
+    "relUrl": "/phase1/js-dom/#-project-javascript-calculator"
+  },"64": {
+    "doc": "JavaScript and the DOM",
+    "title": "🐈 Events 🐶",
+    "content": ". | Use the notes) and the example from class as a guide. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-dom/#-events-",
+    "relUrl": "/phase1/js-dom/#-events-"
+  },"65": {
+    "doc": "JavaScript and the DOM",
+    "title": "🔖 Resources to use as reference",
+    "content": ". | CSS-Tricks: What Is the DOM? | MDN Introduction to Events | MDN Element Events -&gt; this is where you can see the events that are defined for elements (like “click” or “mouseover”) | MDN Event Reference -&gt; this is a huge list of all the available events, useful mainly to get an idea of what’s possible | DOM Manipulation with Vanilla JS | How JS Event Delegation Works . | Chapters 13-15 of Eloquent JavaScript | . ⭐️ EXTRA/TMI . This resource is really not at all necessary to understand or do the project, but if you want to know more about the concept of tree structures in computer science, check out this piece from Vaidehi Joshi’s BaseCS blog series. She is awesome! There is also a thoroughly delightful accompanying BaseCS podcast with the equally amazing Saron Yitbarek. | BaseCS blog series: How Not to be Stumped by Trees | . And here is more info about what is happening when a browser renders a page – very enlightening, although not strictly necessary at this stage: . | About the browser rendering engine | How browser rendering works | . This is a good explanation about how JS events “bubble” up the chain of elements on the page: . | JS Event Bubbling and Capturing | . If you would like to know more about the JavaScript Event Loop and how it works, I highly recommend this resource. Don’t miss the video of the conference talk that goes along with it – it’s excellent: . | Loupe: Visualizing the JS Event Loop | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-dom/#-resources-to-use-as-reference",
+    "relUrl": "/phase1/js-dom/#-resources-to-use-as-reference"
+  },"66": {
+    "doc": "JavaScript and the DOM",
+    "title": "JavaScript and the DOM",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-dom/",
+    "relUrl": "/phase1/js-dom/"
+  },"67": {
+    "doc": "JavaScript & the DOM",
+    "title": "JavaScript & the DOM",
+    "content": ". | CSS-Tricks: What Is the DOM? | MDN Introduction to Events | MDN Element Events -&gt; this is where you can see the events that are defined for elements (like “click” or “mouseover”) | MDN Event Reference -&gt; this is a huge list of all the available events, useful mainly to get an idea of what’s possible | DOM Manipulation with Vanilla JS | How JS Event Delegation Works | Chapters 13-15 of Eloquent JavaScript | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-dom/",
+    "relUrl": "/resources/js-dom/"
+  },"68": {
+    "doc": "JavaScript Extra Stuff",
+    "title": "JavaScript Extra Stuff",
+    "content": ". | Eloquent JavaScript Chapter 5: Higher Order Functions - This is a pretty intense read but it includes examples of map, filter, and reduce. | Rebecca Murphey on using objects to write more concise code (short video) | Lodash - This is a JS utility library – lots of handy little functions that can make it easier to do common things | Moment.js - This is a very commonly used library for working with dates in JS. It’s big and kind of old, but handy for reformatting how dates are displayed. You could also check out modern alternatives like Luxon or date-fns. | Exponentially Easy Selection Sort by Vaidehi Joshi - A lot more about the selection sort algorithm if you’re curious We encounter tree structures in several places in the course – like the DOM! If you want to know more about the concept of tree structures in computer science, check out this piece from Vaidehi Joshi’s BaseCS blog series. She is awesome! There is also a thoroughly delightful accompanying BaseCS podcast with the equally amazing Saron Yitbarek. | BaseCS blog series: How Not to be Stumped by Trees | . For more info about what is happening when a browser renders a page – very enlightening, although not strictly necessary at this stage: . | About the browser rendering engine | How browser rendering works | . This is a good explanation about how JS events “bubble” up the chain of elements on the page: . | JS Event Bubbling and Capturing | . If you would like to know more about the JavaScript Event Loop and how it works, I highly recommend this resource. Don’t miss the video of the conference talk that goes along with it – it’s excellent: . | Loupe: Visualizing the JS Event Loop | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-extra/",
+    "relUrl": "/resources/js-extra/"
+  },"69": {
+    "doc": "JavaScript and Forms",
+    "title": "🗓️ Today’s topics",
+    "content": ". | HTML forms | Working with form data in JavaScript | Client-side form validation with JavaScript | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase1/js-forms/#️-todays-topics"
+  },"70": {
+    "doc": "JavaScript and Forms",
+    "title": "🎬 End of Phase Technical Presentations",
+    "content": "The presentations at the end of this phase will be in the form of a short video. Each of you will record a screencast on one of the projects you did in Phase 1. The video should be 4-5 minutes long, and no longer. For this first phase, your video can be in English or Spanish. Your target audience is a brand new Momentum student who is just at the beginning of Phase 1 after Foundations. Imagine you are teaching them how to do what you’ve done in this project. Give them the benefit of your experience over these past several weeks. This video does not have to be polished, scripted, or edited. But your viewer should be able to follow what you’re saying and understand the points you are making. You should illustrate the concepts you are talking about with examples from your code. Suggestions for how to use your time. ~ 1 min - show the project in the browser and highlight its functions ~ 3 min - pick a couple of elements of the code that you want to explain line by line and show what you learned in the process ~ 1 min - a challenge you encountered in the project and how you got through it . I suggest using Loom – it’s very simple to use for screencasts and for camera videos and will let you share your video easily. The free account also limits your videos to 5 minutes, so it should help you with timing! . Loom lets you record a screencast with or without your face showing. You can choose according to your preference. | Getting Started with Loom | Loom Chrome Extension | . Please post your video and share the url for it using this form. Your videos are due by 2:00 pm on Thursday, June 9. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/#-end-of-phase-technical-presentations",
+    "relUrl": "/phase1/js-forms/#-end-of-phase-technical-presentations"
+  },"71": {
+    "doc": "JavaScript and Forms",
+    "title": "✅ Requirements for passing the phase",
+    "content": ". | The code you chose to illustrate runs without errors. | The code you illustrate meets the (non-spicy) requirements of the assignment. | You can explain how your code works. | Your presentation includes JavaScript. | You turn in a video. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/#-requirements-for-passing-the-phase",
+    "relUrl": "/phase1/js-forms/#-requirements-for-passing-the-phase"
+  },"72": {
+    "doc": "JavaScript and Forms",
+    "title": "🎯 Project",
+    "content": ". | We will work on this project in pairs in class in addition to it being homework. | Everyone needs to turn in code. | Assignment Invitation Link | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/#-project",
+    "relUrl": "/phase1/js-forms/#-project"
+  },"73": {
+    "doc": "JavaScript and Forms",
+    "title": "🔖 Resources",
+    "content": ". | MDN Client-Side Form Validation | MDN HTML5 Constraint Validation | MDN Forms Guide | MDN HTML form element | MDN HTMLFormElement | MDN HTML input element | MDN HTML label element | MDN submit event | MDN Event.preventDefault | . ⭐️ EXTRA/TMI . | Form Fields in Eloquent JavaScript, Chapter 18 | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/#-resources",
+    "relUrl": "/phase1/js-forms/#-resources"
+  },"74": {
+    "doc": "JavaScript and Forms",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Web forms notes | Form example | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/#-code--notes",
+    "relUrl": "/phase1/js-forms/#-code--notes"
+  },"75": {
+    "doc": "JavaScript and Forms",
+    "title": "JavaScript and Forms",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-forms/",
+    "relUrl": "/phase1/js-forms/"
+  },"76": {
+    "doc": "Forms and Form Validation",
+    "title": "Forms and Form Validation",
+    "content": "Working with Forms . | MDN Forms Guide through “Validating and Submitting Form Data” | Code Academy Forms | Form Fields in Eloquent JavaScript, Chapter 18 | MDN Forms Guide | MDN HTML form element | MDN HTMLFormElement | MDN HTML input element | MDN HTML label element | MDN submit event | MDN Event.preventDefault | . Form Validation . | MDN Client-Side Form Validation | MDN HTML5 Constraint Validation | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-forms/",
+    "relUrl": "/resources/js-forms/"
+  },"77": {
+    "doc": "JavaScript Loops & Functions",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Using variables, data types, conditionals, loops, and functions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-loops-functions/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase1/js-loops-functions/#️-todays-topics"
+  },"78": {
+    "doc": "JavaScript Loops & Functions",
+    "title": "🎯 Project: Free Code Camp JavaScript Exercises",
+    "content": "Finish Second Half . English: JavaScript practice exercises, from the beginning through “Shopping List” for tomorrow morning. Español: Los mismos ejercisios en Español de ‘Comenta tu código’ a ‘Lista de Compras’ antes del martes por la mañana. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-loops-functions/#-project-free-code-camp-javascript-exercises",
+    "relUrl": "/phase1/js-loops-functions/#-project-free-code-camp-javascript-exercises"
+  },"79": {
+    "doc": "JavaScript Loops & Functions",
+    "title": "🔖 Resources",
+    "content": ". | Rebecca’s video on variables | Rebecca’s video on types | Rebecca’s video on functions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-loops-functions/#-resources",
+    "relUrl": "/phase1/js-loops-functions/#-resources"
+  },"80": {
+    "doc": "JavaScript Loops & Functions",
+    "title": "🦉 Notes",
+    "content": ". | Intro to JS Notes/Slides | Radius Example Code Pen | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-loops-functions/#-notes",
+    "relUrl": "/phase1/js-loops-functions/#-notes"
+  },"81": {
+    "doc": "JavaScript Loops & Functions",
+    "title": "JavaScript Loops & Functions",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-loops-functions/",
+    "relUrl": "/phase1/js-loops-functions/"
+  },"82": {
+    "doc": "JavaScript Objects",
+    "title": "JavaScript Objects",
+    "content": ". | MDN JavaScript Object Basics | Eloquent JavaScript, chapter 4: Objects and Arrays | blog post on JS objects | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/js-objects/",
+    "relUrl": "/resources/js-objects/"
+  },"83": {
+    "doc": "JS Objects",
+    "title": "Today’s topics",
+    "content": ". | Introduction to the object data structure in JavaScript | Storing data in and retrieving data from objects | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-objects/#todays-topics",
+    "relUrl": "/phase1/js-objects/#todays-topics"
+  },"84": {
+    "doc": "JS Objects",
+    "title": "🎯 Project: Build a customer directory",
+    "content": ". | Begin Customer Database Link to assignment invitation, which is due Friday Morning. Due to our day off, we will have class Friday afternoon 2-3:30 . | For Wednesday Morning, 6/1: Start HTML and get at least one customer rendered on the page | . | ➡️ Preview the next topic, Asynchronous JavaScript and the Fetch API, by completing this section in Thinkific. You will need to make an account if you have not yet. When questions or observations come up, you can use the “DISCUSSION” button to record them or to respond to classmates. | . Examples . | JS Objects with The Simpsons | Find People By City | Mari Edwards Video on Objects | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-objects/#-project-build-a-customer-directory",
+    "relUrl": "/phase1/js-objects/#-project-build-a-customer-directory"
+  },"85": {
+    "doc": "JS Objects",
+    "title": "🔖 Resources",
+    "content": ". | MDN JavaScript Object Basics | Eloquent JavaScript, chapter 4: Objects and Arrays | Eloquent JavaScript Objectos enm Español | blog post on JS objects | Prettier Code Formatter This is information about the extenstion that you can (and should) install in VS Code. | How to format code with Prettier | . ⭐ EXTRA/TMI . | Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek | Rebecca Murphey on using objects to write more concise code (short video) | Lodash - This is a JS utility library – lots of handy little functions that can make it easier to do common things | Moment.js - This is a very commonly used library for working with dates in JS. It’s big and kind of old, but handy for reformatting how dates are displayed. You could also check out modern alternatives like Luxon or date-fns. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-objects/#-resources",
+    "relUrl": "/phase1/js-objects/#-resources"
+  },"86": {
+    "doc": "JS Objects",
+    "title": "🦉 Code, Notes &amp; Videos",
+    "content": ". | Notes on JS objects | Example of a basic working calculator - This is just one way you can do this! | Example: working with JS object data and the DOM | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-objects/#-code-notes--videos",
+    "relUrl": "/phase1/js-objects/#-code-notes--videos"
+  },"87": {
+    "doc": "JS Objects",
+    "title": "JS Objects",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/js-objects/",
+    "relUrl": "/phase1/js-objects/"
+  },"88": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "💁 Asking Questions + Getting Help",
+    "content": ". | Julia Evans, How To Ask Good Questions | Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck | Our Student Guidelines: Getting Help | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/learning/#-asking-questions--getting-help",
+    "relUrl": "/resources/learning/#-asking-questions--getting-help"
+  },"89": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Tech Pros Have Good Advice for You",
+    "content": ". | Syntax.fm Podcast: Advice for New Devs | Katrina Owen, How to Fail Without Being a Loser | Tom Stuart, The Most Common Problem In Software Development And How To Fix It | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/learning/#tech-pros-have-good-advice-for-you",
+    "relUrl": "/resources/learning/#tech-pros-have-good-advice-for-you"
+  },"90": {
+    "doc": "Pro Tips for Learning To Code",
+    "title": "Pro Tips for Learning To Code",
+    "content": ". | So You Want to Be a Wizard | Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/learning/",
+    "relUrl": "/resources/learning/"
+  },"91": {
+    "doc": "Orientation and Setup",
+    "title": "Orientation and Setup",
+    "content": ". | Student guidelines | How we work remotely | Tutorial on Using Slack | Momentum Slack guidelines | ⭐ Setting up your computer | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/orientation/",
+    "relUrl": "/resources/orientation/"
+  },"92": {
+    "doc": "Phase 1 Front End",
+    "title": "Intro to Front End Development",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/#intro-to-front-end-development",
+    "relUrl": "/phase1/#intro-to-front-end-development"
+  },"93": {
+    "doc": "Phase 1 Front End",
+    "title": "Phase 1 Front End",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/",
+    "relUrl": "/phase1/"
+  },"94": {
+    "doc": "Phase 2 Back End",
+    "title": "Intro to Back End Development",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/#intro-to-back-end-development",
+    "relUrl": "/phase2/#intro-to-back-end-development"
+  },"95": {
+    "doc": "Phase 2 Back End",
+    "title": "Phase 2 Back End",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/",
+    "relUrl": "/phase2/"
+  },"96": {
+    "doc": "Phase 3 Advanced Back End",
+    "title": "Advanced Back End with Python",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase3-be/#advanced-back-end-with-python",
+    "relUrl": "/phase3-be/#advanced-back-end-with-python"
+  },"97": {
+    "doc": "Phase 3 Advanced Back End",
+    "title": "Phase 3 Advanced Back End",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase3-be/",
+    "relUrl": "/phase3-be/"
+  },"98": {
+    "doc": "Phase 3 Advanced Front End",
+    "title": "Advanced Front End with React",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase3-fe/#advanced-front-end-with-react",
+    "relUrl": "/phase3-fe/#advanced-front-end-with-react"
+  },"99": {
+    "doc": "Phase 3 Advanced Front End",
+    "title": "Phase 3 Advanced Front End",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase3-fe/",
+    "relUrl": "/phase3-fe/"
+  },"100": {
+    "doc": "Python Basics",
+    "title": "Python Basics",
+    "content": "Set Up Your Python Dev Environment . | 🛠 Follow these instructions to install Python and other tools you’ll need | . Essential Python Resources . | ⭐ Official Python docs | ⭐ Documentación de Python en Español | 🐍 The Python Standard Library | 🐍 La Biblioteca Estándar de Python | 📚 Python for Everybody | 📚 Python Para Todos en Español | LearnPython Tutorial -&gt; A good reference with examples and exercises. | A Byte of Python -&gt; Use this as a reference, starting at First Steps. DO NOT follow the installation instructions to download Python – you already have Python installed! | Automate The Boring Stuff Kind of like the equivalent to Eloquent JavaScript for Python. Lots of written explanation with great examples. | . RealPython: Basic Python Tutorials . These articles are way more in-depth than you need right now, but they are good references for more information, if you feel you need that. | Basic Data Types | Variables | Operators and Expressions | Strings | Python Program Lexical Structure | Conditional Statements | While Loops | For Loops | Basic Input and Output | String Formatting | Defining Your Own Python Function | Docstrings in Python | . 📓 Jupyter Notebooks . | RealPython: Using Jupyter Notebooks (video) | RealPython: Jupyter Notebook: an Introduction | Setting Up Your Python Development Environment: Jupyter Notebooks section | Using Jupyter Notebooks in VSCode -&gt; This is an alternate way to run Jupyter Notebooks locally. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-basics/",
+    "relUrl": "/resources/py-basics/"
+  },"101": {
+    "doc": "Django CRUD",
+    "title": "🎯 Project: Django Music",
+    "content": "Build a CRUD application from scratch. This app should let you catalog your music collection. | Create | Read | Update | Delete | . This is due on Tuesday. Django Music . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-crud/#-project-django-music",
+    "relUrl": "/phase2/py-django-crud/#-project-django-music"
+  },"102": {
+    "doc": "Django CRUD",
+    "title": "🔖 Resources",
+    "content": ". | Database Design Tutorial This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships. | Django Docs Model Relationships | Django Docs URLs | Django Docs Template Language | Django Docs Making Queries (using the ORM) | Django Docs Topic Guide . | Model field null=True -&gt; relevant for database storage | Model field blank=True -&gt; relevant for model object validation | . 🌶🌶🌶 Useful for the spicy options: . | Foreign Key to built-in User from DjangoGirls | Extending the User model (preferred, used in Uptact) | Uploading Images | . Forms . | Working with Forms -&gt; A good place to start for an overview | What is up with form.is_valid() | Validation on a model form | Form and field validation | The Forms API -&gt; Details on form object attribute and methods (such as as_p()) | Django’s CSRF protection . | What is CSRF? | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-crud/#-resources",
+    "relUrl": "/phase2/py-django-crud/#-resources"
+  },"103": {
+    "doc": "Django CRUD",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Team 13 Diagram of Django | Django shell notes | Django Uptact, with finished tasks | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-crud/#-code--notes",
+    "relUrl": "/phase2/py-django-crud/#-code--notes"
+  },"104": {
+    "doc": "Django CRUD",
+    "title": "Django CRUD",
+    "content": "For this weekend project, keep working with your code buddies from this week. You are welcome to combine groups and join forces if you want to! . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-crud/",
+    "relUrl": "/phase2/py-django-crud/"
+  },"105": {
+    "doc": "Django Wrap Up 🎬",
+    "title": "🗓️ Today’s Topics",
+    "content": ". | Preview of Collaboration for Phase 3 | End-of-phase technical presentations | Videos of Django Music review . | Wed afternoon M2M Access Passcode: Q?&amp;x@h72 | Tues afternoon SQL, Users, Favorite Access Passcode: 2rT$nuN3 | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-wrap-up/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase2/py-django-wrap-up/#️-todays-topics"
+  },"106": {
+    "doc": "Django Wrap Up 🎬",
+    "title": "🎯 Django Music Project due Thursday @ 2:00 pm",
+    "content": "Thursday afternoon we will not have class. You should use that time to finish work on your presentation. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-wrap-up/#-django-music-project-due-thursday--200-pm",
+    "relUrl": "/phase2/py-django-wrap-up/#-django-music-project-due-thursday--200-pm"
+  },"107": {
+    "doc": "Django Wrap Up 🎬",
+    "title": "Intro to Collaboration with GitHub",
+    "content": ". | GitHub Collaboration Docs | Git Collaboration slides | Git in VS Code Not everyone loves using git on the command line like I do. A lot of folks like using the integration in VS Code, so you might want to give it a try. This is a good place to start, but there are many other extensions that you could use as well. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-wrap-up/#intro-to-collaboration-with-github",
+    "relUrl": "/phase2/py-django-wrap-up/#intro-to-collaboration-with-github"
+  },"108": {
+    "doc": "Django Wrap Up 🎬",
+    "title": "🤩 End-of-Phase Presentation videos due Friday @ 5:00pm",
+    "content": "Each person has 4-5 min to talk about one of the following topics using examples from your own code. Please record this presentation as you did in Phase 1 and submit using this form when done. Topics: Pick one . For all topics, the code should be from Django Music. If you have a different project that you want to present, or want to present on a topic not listed, please talk to me to get approval. | Pick any url, view, and template that you worked on. Walk through what happens in the code when that url is typed into the browser’s address bar (or a link with that url is clicked). You should talk about: . | the url in urls.py | the view | any models that are involved | any decisions you made about how to do this or how not to do it. | Would you do it differently next time? | . | Tell us about a form to create objects in your application (e.g., a form to create a new Album). How does this work? You should tell us about: . | the form class in forms.py | the url | the view | the template | Anything challenging that you had to figure out about this? | . | Explain (at least one of) your models, talking through any attributes and relationships to other models. Why did you build it this way? You could show us your database using DB Browser for SQLite, an ER Diagram that show relationships with other models, or creating or querying for model objects in the Django shell (or shell_plus). | Show a template that you worked on and explain how the code in the template works. You should tell us about: . | the view that renders it and its view context | any conditional rendering in the template | content blocks | any other template tags you used and what they are doing | how this template is rendered in browser | . | Anything you implemented that you’re jazzed about? Please tell us about it. You could touch on: . | describe the feature from the user perspective. What does it do and why is it needed? | how does it work in the code? | did you use any libraries or packages? | was there anything tricky about this? what did you learn to be able to do this? | . | . Evaluation &amp; starting the next phase . As with the end-of-phase of Phase 1, presentations are meant to assess what you’ve learned during the phase and to determine whether you are prepared to begin the next phase. Your instructors will assess the work you’ve done and determine whether you will go on to the next phase. The criteria for passing a phase are: . | Your project is complete (it meets most, if not all, criteria in the original assignment). | You can explain how your code works. Instructors may ask you about any portion of it and you can give a reasonable explanation. | . You might be asked to repeat the phase if: . | You are unfamiliar with how your code works. | You have nothing to present. | . If we have concerns about you starting the next phase, you will hear from us on Thursday afternoon, and I’ll ask you to meet with us on Friday morning. If you have any concerns about passing the phase you are welcome to reach out to me or Jessica before then. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-wrap-up/#-end-of-phase-presentation-videos-due-friday--500pm",
+    "relUrl": "/phase2/py-django-wrap-up/#-end-of-phase-presentation-videos-due-friday--500pm"
+  },"109": {
+    "doc": "Django Wrap Up 🎬",
+    "title": "Django Wrap Up 🎬",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-django-wrap-up/",
+    "relUrl": "/phase2/py-django-wrap-up/"
+  },"110": {
+    "doc": "Django",
+    "title": "Django",
+    "content": ". | Thinkific Django | MDN: Django Introduction | MDN: Introducción a Django (Español) | Official Django documentation | Documentación de Django (Español) | Django Topic Guide (this is a useful table of contents for the Django docs) | Pretty Printed Django Videos: Videos 1-10 are the ones specific to Django. There are other videos on related topics; they are useful but not relevant to the material we’re covering right now. | Curso de Django Desde Cero (Español) Partes 1-3 | Django Chat Podcast: How to Learn Django | Pipenv documentation | Django Debug Toolbar | . Databases . | DB Browser for SQLite - a GUI for your sqlite database | Database Design Tutorial This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships. | Django Docs Model Relationships | Django Docs URLs | Django Docs Template Language | Django Docs Making Queries (using the ORM) | Django Docs Topic Guide . | Model field null=True -&gt; relevant for database storage | Model field blank=True -&gt; relevant for model object validation | . 🌶🌶🌶 Useful for the spicy options . | Foreign Key to built-in User from DjangoGirls | Extending the User model (preferred, used in Uptact) | Uploading Images | . Forms in Django . | Working with Forms -&gt; A good place to start for an overview | What is up with form.is_valid() | Validation on a model form | Form and field validation | The Forms API -&gt; Details on form object attribute and methods (such as as_p()) | Django’s CSRF protection . | What is CSRF? | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-django/",
+    "relUrl": "/resources/py-django/"
+  },"111": {
+    "doc": "Python Conditionals and Loops",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Python . | variables | if statements | while loops | Input and output with input and print | Functions | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-exercises/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase2/py-exercises/#️-todays-topics"
+  },"112": {
+    "doc": "Python Conditionals and Loops",
+    "title": "✅ TODO today",
+    "content": "We’ll begin Python the way we began JavaScript, with some exercises and tests you can run to keep you on track. We’re going to use an awesome free online tool called Exercism. Please sign up using your GitHub account (getting started instructions) and choose the Python track. Make sure that you are in Practice Mode. If your exercises are locked you need to switch from Learning Mode to Practice Mode. Here’s a short video showing you how to do that. You can use the in-browser editor, or work through their command line setup walkthrough to install Exercism on your computer. ⚠️ To run the tests locally, you will need a testing library called pytest installed. To install the necessary dependencies, run the following at the command line (it does not matter what directory you are in when you pip install something): . pip install pytest pytest-cache . In the Python track, complete the following exercises: . | Hello World | Two Fer | Raindrops | . And at least 1 of the following, your choice: . | Scrabble Score | Hamming | Resistor color | . Be sure to read the instructions for each exercise carefully. Here is a guide to running the Python tests on Exercism. If you get through all four of these, please continue with other exercises that seem interesting or fun to you. There are lots to choose from, and you want as much practice with Python as you can get. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-exercises/#-todo-today",
+    "relUrl": "/phase2/py-exercises/#-todo-today"
+  },"113": {
+    "doc": "Python Conditionals and Loops",
+    "title": "🎯 Project",
+    "content": "Please complete the Python section through “More iterating with Python” by Wednesday morning, 6/15. 🥡 How to submit your work . When you submit your solution for an exercism, you have the option to publish it. Please publish your solutions for the four exercisms required as specified above. You will then be able to see all your published solutions on your profile page. You can find your profile page by clicking on your user avatar on Exercism and choosing “Public Profile” from the menu. To submit your work, paste the URL for your Exercism profile page into this form. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-exercises/#-project",
+    "relUrl": "/phase2/py-exercises/#-project"
+  },"114": {
+    "doc": "Python Conditionals and Loops",
+    "title": "🔖 Resources",
+    "content": "Essential Python Resources . | ⭐ Official Python docs | ⭐ Documentación de Python en Español | 🐍 The Python Standard Library | 🐍 La Biblioteca Estándar de Python | 📚 Python for Everybody | 📚 Python Para Todos en Español | LearnPython Tutorial -&gt; A good reference with examples and exercises. | A Byte of Python -&gt; Use this as a reference, starting at First Steps. DO NOT follow the installation instructions to download Python – you already have Python installed! | . RealPython: Basic Python Tutorials . These articles are way more in-depth than you need right now, but they are good references for more information, if you feel you need that. | Basic Data Types | Variables | Operators and Expressions | Strings | Python Program Lexical Structure | Conditional Statements | While Loops | For Loops | Basic Input and Output | String Formatting | Defining Your Own Python Function | Docstrings in Python | . 📓 Jupyter Notebooks . | RealPython: Using Jupyter Notebooks (video) | RealPython: Jupyter Notebook: an Introduction | Setting Up Your Python Development Environment: Jupyter Notebooks section | Using Jupyter Notebooks in VSCode -&gt; This is an alternate way to run Jupyter Notebooks locally. | . 💁 Asking Questions + Getting Help . | Julia Evans, How To Ask Good Questions | Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck | Our Student Guidelines: Getting Help | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-exercises/#-resources",
+    "relUrl": "/phase2/py-exercises/#-resources"
+  },"115": {
+    "doc": "Python Conditionals and Loops",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Notes: Intro to Python | Notebooks Prequel: the Force Awakens | Intro to Python notebooks (Notebooks 1-9) | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-exercises/#-code--notes",
+    "relUrl": "/phase2/py-exercises/#-code--notes"
+  },"116": {
+    "doc": "Python Conditionals and Loops",
+    "title": "Python Conditionals and Loops",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-exercises/",
+    "relUrl": "/phase2/py-exercises/"
+  },"117": {
+    "doc": "Python Code Break: Modules",
+    "title": "Working with modules",
+    "content": "Step 1 . Write a simple number guessing game. Your game should import the random module to generate a random integer between 1 and 20. When the program runs, it should prompt the user for a guess and then tell them if their guess was too high, too low, or correct. If you need an example of how to accept user input on the command line, you will find it in Jupyter notebook 03 - Input and Output. Step 2 . Modify your game so that it tells the user how many tries it took them to guess the right number. Step 3 . Limit the number of tries a user has to guess the number correctly. If the user doesn’t guess it in the number of tries you’ve limited them to, they lose. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-guess-number/#working-with-modules",
+    "relUrl": "/code_exercises/py-guess-number/#working-with-modules"
+  },"118": {
+    "doc": "Python Code Break: Modules",
+    "title": "Python Code Break: Modules",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-guess-number/",
+    "relUrl": "/code_exercises/py-guess-number/"
+  },"119": {
+    "doc": "Python Code Break 1",
+    "title": "Working with input and output",
+    "content": "Create a file called gross_pay.py. Write your python code in that file. You should be able to run your program by typing python gross_pay.py at your command prompt. Exercise 1 . Write a program that will ask the user for a number of hours worked and a hourly rate. Calculate the gross pay based off those numbers. Then show the user the total. Enter hours worked: 20 Enter hourly rate: 18.50 Total: $370.0 . Exercise 2 . Add to the calculation time-and-a-half for hours worked over 40. (Note: time-and-a-half rate is the hourly rate * 1.5) . Enter hours worked: 55 Enter hourly rate: 20 Total: $1250 . Exercise 3 . Try to split your program into a function called calculate_pay(hours_worked, hourly_rate) and code that takes user input, calls calculate_pay and prints out the result. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-input/#working-with-input-and-output",
+    "relUrl": "/code_exercises/py-input/#working-with-input-and-output"
+  },"120": {
+    "doc": "Python Code Break 1",
+    "title": "Python Code Break 1",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-input/",
+    "relUrl": "/code_exercises/py-input/"
+  },"121": {
+    "doc": "Getting Used to Working in Django",
+    "title": "🗓️ Today’s Topics",
+    "content": "Today we develop our mental model of Django, understanding what it does and how it does it. | Django urls &amp; views | Django templates | Django models and the database | Dealing with errors | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-intro-django/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase2/py-intro-django/#️-todays-topics"
+  },"122": {
+    "doc": "Getting Used to Working in Django",
+    "title": "🎯 Project: Uptact",
+    "content": "When you start your first dev job, you will see a lot of code all at once and will have to be able to read it and understand what it does so that you can modify and add to it. In this project you will do just that: modify existing code to augment its functionality. This is due Wednesday morning. Each person should accept the assignment invitation and work in their own repo, but please work on this assignment with your assigned buddies. Buddy groups are welcome to combine and unite forces. The point is: nobody should struggle alone. For each part of the assignment, talk over with your buddies how you each think you can accomplish the tasks. Be willing to try things your buddy suggests even if you aren’t sure it’s right! You will learn a lot by seeing what happens (and what doesn’t) when you make changes. Talking it through will help clarify your understanding of how Django works, and having a buddy around will be helpful when you inevitably run into errors. You will join your code buddies in breakout rooms this morning. 👉 Django Uptact . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-intro-django/#-project-uptact",
+    "relUrl": "/phase2/py-intro-django/#-project-uptact"
+  },"123": {
+    "doc": "Getting Used to Working in Django",
+    "title": "🔖 Resources",
+    "content": ". | Thinkific Django | MDN: Django Introduction | MDN: Introducción a Django (Español) | Official Django documentation | Documentación de Django (Español) | Django Topic Guide (this is a useful table of contents for the Django docs) | Pretty Printed Django Videos: Videos 1-10 are the ones specific to Django. There are other videos on related topics; they are useful but not relevant to the material we’re covering right now. | Curso de Django Desde Cero (Español) Partes 1-3 | Django Chat Podcast: How to Learn Django | Pipenv documentation | Django Debug Toolbar | . Databases . | DB Browser for SQLite | Database Design Tutorial -&gt; This is really an introduction to databases. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-intro-django/#-resources",
+    "relUrl": "/phase2/py-intro-django/#-resources"
+  },"124": {
+    "doc": "Getting Used to Working in Django",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Notes - Tour of a Django App | A diagram of Django’s structure | Django Girls app with pipenv | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-intro-django/#-code--notes",
+    "relUrl": "/phase2/py-intro-django/#-code--notes"
+  },"125": {
+    "doc": "Getting Used to Working in Django",
+    "title": "Getting Used to Working in Django",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-intro-django/",
+    "relUrl": "/phase2/py-intro-django/"
+  },"126": {
+    "doc": "Python Code Break: list comprehensions and formatting output",
+    "title": "Working with list comprehensions and formatting output",
+    "content": "exercise 1 . Write a list comprehension that takes each word in a list of words and puts it in all caps. phrases = [\"everything is fine\", \"have a seat\", \"holy cow\"] # your list comprehension should produce a list that looks like this: # ['EVERYTHING IS FINE', 'HAVE A SEAT', 'HOLY COW'] . Remember that the basic structure of a list comprehension is: . new_list = [&lt;expression&gt; for &lt;each_item&gt; in &lt;a_list&gt;] . exercise 2 . Rewrite a remove_from_list function to use a list comprehension to remove the item. The remove_from_list function should take a list of items and an item to remove from that list, and return a new list that contains everything from the original list except for that item. It should remove every occurrence of the item in the list (if it appears more than once). exercise 3 . Write a function print_freq_results(results). This function should take an argument results that is a list of tuples like the following: . [ ('her', 33), ('all', 12), ('which', 12), ('she', 7), ('their', 7), ] . This function should print (not return) output like the following: . her | 33 ********************************* all | 12 ************ which | 12 ************ she | 7 ******* their | 7 ******* . 😎 HINT: You’re going to need some string methods to align the characters. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-list-comprehensions/#working-with-list-comprehensions-and-formatting-output",
+    "relUrl": "/code_exercises/py-list-comprehensions/#working-with-list-comprehensions-and-formatting-output"
+  },"127": {
+    "doc": "Python Code Break: list comprehensions and formatting output",
+    "title": "Python Code Break: list comprehensions and formatting output",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-list-comprehensions/",
+    "relUrl": "/code_exercises/py-list-comprehensions/"
+  },"128": {
+    "doc": "Python List Comprehensions and Lambdas",
+    "title": "Today’s topics",
+    "content": ". | List Comprehensions . | Repl.it from class | . | Lambda functions | More breaking down problems | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-list-comps/#todays-topics",
+    "relUrl": "/phase2/py-list-comps/#todays-topics"
+  },"129": {
+    "doc": "Python List Comprehensions and Lambdas",
+    "title": "🎯 Project",
+    "content": ". | Due Thursday morning, we will work on Mystery Word in teams in class. | Also by Thursday Morning, please complete the Object Oriented Programming modules in Thinkific: . | Object Oriented Python | Classes and Objects | An OOP cat | Create Individual Objects From a Class | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-list-comps/#-project",
+    "relUrl": "/phase2/py-list-comps/#-project"
+  },"130": {
+    "doc": "Python List Comprehensions and Lambdas",
+    "title": "🔖 Resources",
+    "content": ". | List Comprehensions | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-list-comps/#-resources",
+    "relUrl": "/phase2/py-list-comps/#-resources"
+  },"131": {
+    "doc": "Python List Comprehensions and Lambdas",
+    "title": "Lambda Functions",
+    "content": "| . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-list-comps/#lambda-functions",
+    "relUrl": "/phase2/py-list-comps/#lambda-functions"
+  },"132": {
+    "doc": "Python List Comprehensions and Lambdas",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Jupyter Notebooks Notebooks 13-15 | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-list-comps/#-code--notes",
+    "relUrl": "/phase2/py-list-comps/#-code--notes"
+  },"133": {
+    "doc": "Python List Comprehensions and Lambdas",
+    "title": "Python List Comprehensions and Lambdas",
+    "content": "Today, we’ll continue applying what we’ve learned about Python in an assignment to work on in class and outside of class. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-list-comps/",
+    "relUrl": "/phase2/py-list-comps/"
+  },"134": {
+    "doc": "Python Lists and Dictionaries",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Dictionaries | Tuples | Lists and list comprehensions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-lists-and-dicts/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase2/py-lists-and-dicts/#️-todays-topics"
+  },"135": {
+    "doc": "Python Lists and Dictionaries",
+    "title": "🐍 Code Break",
+    "content": ". | Try working with lists | Practice with list comprehensions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-lists-and-dicts/#-code-break",
+    "relUrl": "/phase2/py-lists-and-dicts/#-code-break"
+  },"136": {
+    "doc": "Python Lists and Dictionaries",
+    "title": "🎯 Project",
+    "content": "Begin the project,Word Frequency . A dictionary will help you solve the problem of counting words. This will be due on Tuesday, 6/21. At minimum you should be able to count words and print that count, even if the formatting of your output is not 100% on point. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-lists-and-dicts/#-project",
+    "relUrl": "/phase2/py-lists-and-dicts/#-project"
+  },"137": {
+    "doc": "Python Lists and Dictionaries",
+    "title": "🔖 Resources",
+    "content": ". | Python Docs: Dictionaries | Documentación de Python: Diccionarios | Python Docs: List comprehensions | Python Docs: Comprensión de Listas | Python list comprehensions explained visually | RealPython: Python lists and tuples | RealPython: Dictionaries | RealPython: Sorting in Python | Python Docs: Sorting HOWTO | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-lists-and-dicts/#-resources",
+    "relUrl": "/phase2/py-lists-and-dicts/#-resources"
+  },"138": {
+    "doc": "Python Lists and Dictionaries",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | NBA Scores Example | What does if __name__ == \"__main__\" do? | Notes: Lists, Dicts, and Tuples | Intro to Python notebooks (Notebooks 7 &amp; 9 especially) | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-lists-and-dicts/#-code--notes",
+    "relUrl": "/phase2/py-lists-and-dicts/#-code--notes"
+  },"139": {
+    "doc": "Python Lists and Dictionaries",
+    "title": "Python Lists and Dictionaries",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-lists-and-dicts/",
+    "relUrl": "/phase2/py-lists-and-dicts/"
+  },"140": {
+    "doc": "Python Lists & Dicts",
+    "title": "Lists and List Comprehensions",
+    "content": ". | RealPython: Python lists and tuples | Python Docs: List comprehensions | Python Docs: Comprensión de Listas | Python list comprehensions explained visually | List Comprehensions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-lists-and-dicts/#lists-and-list-comprehensions",
+    "relUrl": "/resources/py-lists-and-dicts/#lists-and-list-comprehensions"
+  },"141": {
+    "doc": "Python Lists & Dicts",
+    "title": "Sorting and Lambdas",
+    "content": ". | RealPython: Sorting in Python | Python Docs: Sorting HOWTO | Lambda Functions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-lists-and-dicts/#sorting-and-lambdas",
+    "relUrl": "/resources/py-lists-and-dicts/#sorting-and-lambdas"
+  },"142": {
+    "doc": "Python Lists & Dicts",
+    "title": "Dictionaries",
+    "content": ". | Python Docs: Dictionaries | Documentación de Python: Diccionarios | RealPython: Dictionaries | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-lists-and-dicts/#dictionaries",
+    "relUrl": "/resources/py-lists-and-dicts/#dictionaries"
+  },"143": {
+    "doc": "Python Lists & Dicts",
+    "title": "Python Lists & Dicts",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-lists-and-dicts/",
+    "relUrl": "/resources/py-lists-and-dicts/"
+  },"144": {
+    "doc": "Python Code Break 3",
+    "title": "Working with lists",
+    "content": "exercise 1 . Write a function called remove_from_list that takes a list of items and an item to remove from that list: remove_from_list(list_of_items, item_to_remove) . The function should return a new list with the item removed. Write code to test your function, like the following: . remove_from_list(['Dallas', 'Kelly', 'Courtney', 'Hayden', 'Chase'], 'Hayden') # should return ['Dallas', 'Kelly', 'Courtney', 'Chase'] . Make sure your function removes all instances of the item. Write code to test this. remove_from_list(['MI', 'AK', 'SC', 'AK', 'DE'], 'AK') # should return `['MI', 'SC', 'DE'] . exercise 2 . Write a function remove_many_from_list(list_of_items, items_to_remove) that takes two lists, a list of items, and a list of items to remove from that original list. You can re-use remove_from_list or write it from scratch. ingredients = ['onions', 'habanero hot sauce', 'tomatoes', 'tortillas', 'corn', 'black beans', 'avocados', 'cheese',] foods_my_kids_hate = ['habanero hot sauce', 'avocados'] remove_many_from_list(ingredients, foods_my_kids_hate) # should return ['onions', 'tomatoes', 'tortillas', 'corn', 'black beans', 'cheese'] . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-lists/#working-with-lists",
+    "relUrl": "/code_exercises/py-lists/#working-with-lists"
+  },"145": {
+    "doc": "Python Code Break 3",
+    "title": "Python Code Break 3",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-lists/",
+    "relUrl": "/code_exercises/py-lists/"
+  },"146": {
+    "doc": "Python Code Break: OO",
+    "title": "Define a User class and create user objects",
+    "content": "Step 0 . Create a new Python file and name it whatever you want. This is where you will write the code that follows. Step 1 . Make a class named User. Add the following attributes to your class (in the __init__() method): . | name | email | city | state | . Create two different user instances using your class and save them to variables (something like user1 and user2). When you run your file, print out f-strings that display info using attributes from each user instance: . Anton lives in Durham, NC. Cecil lives in San Francisco, CA. Step 2 . Add a __str__ method to your class that displays the identity and attributes of an instance when it is printed. step 2 example . Say you have a Game class; the __str__ method could look like this (although there are lots of other options!): . def __str__(self): return f\"&lt;Game score={self.score} tries={self.tries}&gt;\" . If you print a game instance with that __str__() method (for example, print(game1)), the output should look like this: . &lt;Game score=0 tries=8&gt; . Step 3 . Make a method named location that returns a string listing the user’s city and state (e.g., “Durham, NC”). Step 4 . Add an attribute called is_active to your class. This attribute should have a default value of True. Then, make another method called deactivate that changes the value of the is_active attribute to False. Create an instance of a user and test that it works. Try resetting the attribute to True using the assignment operator and checking the value again. Step 5 . Add an attribute called login_count that keeps a count of how many days in a row a user logs in. Its default value should be 0. Add a method called increment_login_count that adds 1 to the login_count attribute each time it is called and returns the updated count. Then add a method called reset_login_count that resets the count to 0. Create an instance of a user and test that this works. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-oo/#define-a-user-class-and-create-user-objects",
+    "relUrl": "/code_exercises/py-oo/#define-a-user-class-and-create-user-objects"
+  },"147": {
+    "doc": "Python Code Break: OO",
+    "title": "Python Code Break: OO",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-oo/",
+    "relUrl": "/code_exercises/py-oo/"
+  },"148": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "Today’s topics",
+    "content": ". | Python Classes . | Instantiating an Object | Attributes | Instance Methods | “Magic” Methods | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/#todays-topics",
+    "relUrl": "/phase2/py-oop/#todays-topics"
+  },"149": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "🔎 Word Frency/Optional  Project Retrospective",
+    "content": "Please indicate your answers on this form. | Something I learned by doing this project is… | Something I want to understand better or know more about is… | In this project, I was happy that I was able to… | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/#-word-frencyoptional--project-retrospective",
+    "relUrl": "/phase2/py-oop/#-word-frencyoptional--project-retrospective"
+  },"150": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "🐍 Code Break",
+    "content": "Creating classes and objects . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/#-code-break",
+    "relUrl": "/phase2/py-oop/#-code-break"
+  },"151": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "🎯 Project",
+    "content": "For Thursday afternoon through the weekend, DUE MONDAY: [Link to turn in your deployed DjangoGirls blog project] (https://forms.gle/QAeQBJNMRoHxX8ik9) . | Thinkific Object Oriented Python -&gt; end of unit (4 sections) | DjangoGirls (English) or | DjangoGirls (Español) | . UPDATE: this was aspirational. Blackjack will NOT be due, but you are welcome to try it This week, we will be applying principles of Object Oriented Programming in Python to build a Blackjack card game. OO Blackjack in Python . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/#-project",
+    "relUrl": "/phase2/py-oop/#-project"
+  },"152": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "🔖 Resources",
+    "content": "Object-oriented . | Real Python - Object-Oriented Programming in Python 3 | A Byte of Python: OO | Inheritance and Composition in Python OO | OO-Programming – This is a chapter from a book called Beyond the Basic Stuff With Python by Al Sweigart. He has written a ton of great books on Python and makes them available to read for free online at inventwithpython.com. You might check out Automate the Boring Stuff with Python. It’s a fantastic beginner book. | . Classes in Python . | Python Docs: Classes | Python Docs: Clases | StackOverflow: How do I design a class in Python? | Special Methods (aka magic methods) in the Python Docs | Nombres Especiales de Método | A Guide to Python’s Magic Methods This is a great reference, but watch out! It was written for Python 2, so a few things may be different in Python 3. | . Useful resources for debugging . | Scope of Variables in Python | 🐛 Debugging Python For Fun &amp; Profit (video) | Code Style Checks in Python We installed flake8 on the first day of this phase. This post gives you some detail about what it’s for and why you need it. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/#-resources",
+    "relUrl": "/phase2/py-oop/#-resources"
+  },"153": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Jupyter Notebooks Notebooks 13-15 | Repl from class: Word Frequency OO | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/#-code--notes",
+    "relUrl": "/phase2/py-oop/#-code--notes"
+  },"154": {
+    "doc": "Object-Oriented Programming in Python",
+    "title": "Object-Oriented Programming in Python",
+    "content": "Today, we’ll take a brief survey of classes and objects in Python to get us ready to take on Django. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/py-oop/",
+    "relUrl": "/phase2/py-oop/"
+  },"155": {
+    "doc": "Python OOP",
+    "title": "Python OOP",
+    "content": "Object-Oriented . | Real Python - Object-Oriented Programming in Python 3 | A Byte of Python: OO | Inheritance and Composition in Python OO | OO-Programming – This is a chapter from a book called Beyond the Basic Stuff With Python by Al Sweigart. He has written a ton of great books on Python and makes them available to read for free online at inventwithpython.com. You might check out Automate the Boring Stuff with Python. It’s a fantastic beginner book. | . Classes in Python . | Python Docs: Classes | Python Docs: Clases | StackOverflow: How do I design a class in Python? | Special Methods (aka magic methods) in the Python Docs | Nombres Especiales de Método | A Guide to Python’s Magic Methods This is a great reference, but watch out! It was written for Python 2, so a few things may be different in Python 3. | . Useful resources for debugging . | Scope of Variables in Python | 🐛 Debugging Python For Fun &amp; Profit (video) | Code Style Checks in Python We installed flake8 on the first day of this phase. This post gives you some detail about what it’s for and why you need it. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/py-oop/",
+    "relUrl": "/resources/py-oop/"
+  },"156": {
+    "doc": "Python Code Break: Sequences",
+    "title": "Exercise: working with sequences",
+    "content": "Write a function that accepts one argument, a string, and counts the number of vowels (‘a’, ‘e’, ‘i’, ‘o’, ‘u’) in that string. When you call the function with an all-lowercase string as an argument, your function should print the number of vowels in that string. countVowels('bananarama') # prints: Vowel count: 5 . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-sequences/#exercise-working-with-sequences",
+    "relUrl": "/code_exercises/py-sequences/#exercise-working-with-sequences"
+  },"157": {
+    "doc": "Python Code Break: Sequences",
+    "title": "Where to write and run the code",
+    "content": "You can do this a number of ways. Use whatever works for you. Here are some options: . | Create a .py file and write your code in there. Run the file at the command line: python my-filename.py | Create a .py file and write your code in there. Run the file using the terminal in VS Code. | Write and run your code in the Python REPL (just type python at the command line and you will see the &gt;&gt;&gt; prompt, which will let you start typing Python). | There is also a Python REPL built into VS Code that you could use. | . Don’t forget that you have to define the function AND call the function with some argument to test it. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-sequences/#where-to-write-and-run-the-code",
+    "relUrl": "/code_exercises/py-sequences/#where-to-write-and-run-the-code"
+  },"158": {
+    "doc": "Python Code Break: Sequences",
+    "title": "Python Code Break: Sequences",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/code_exercises/py-sequences/",
+    "relUrl": "/code_exercises/py-sequences/"
+  },"159": {
+    "doc": "Resources",
+    "title": "Resources",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/",
+    "relUrl": "/resources/"
+  },"160": {
+    "doc": "Weekly Schedule",
+    "title": "Phase 3 Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"161": {
+    "doc": "Weekly Schedule",
+    "title": "Monday",
+    "content": ". | Front End Lab for Back End 9:30 AM–11:30 AM | Lunch/Lab 11:30 AM–2:00 PM | Back End Lab for Front End 2:00 PM–4:00 PM | Lab 4:00 PM–5:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"162": {
+    "doc": "Weekly Schedule",
+    "title": "Tuesday",
+    "content": ". | Front End Lab for Back End 9:30 AM–11:30 AM | Lunch/Lab 11:30 AM–2:00 PM | Back End Lab for Front End 2:00 PM–4:00 PM | Lab 4:00 PM–5:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"163": {
+    "doc": "Weekly Schedule",
+    "title": "Wednesday",
+    "content": ". | Lab 9:30 AM–5:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"164": {
+    "doc": "Weekly Schedule",
+    "title": "Thursday",
+    "content": ". | Front End Lab for Back End 9:30 AM–11:30 AM | Lunch/Lab 11:30 AM–2:00 PM | Back End Lab for Front End 2:00 PM–4:00 PM | Lab 4:00 PM–5:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"165": {
+    "doc": "Weekly Schedule",
+    "title": "Friday",
+    "content": ". | Huddle 9:30 AM–10:30 AM | Career Services 11:00 AM–12:00 PM | Lab 1:00 PM–5:30 PM | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"166": {
+    "doc": "Weekly Schedule",
+    "title": "Phases 1 &amp; 2 Weekly Schedule",
+    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"167": {
+    "doc": "Weekly Schedule",
+    "title": "Monday",
+    "content": ". | Morning Class 9:30 AM–11:30 AM | Afternoon Class 2:00 PM–3:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"168": {
+    "doc": "Weekly Schedule",
+    "title": "Tuesday",
+    "content": ". | Morning Class 9:30 AM–11:30 AM | Afternoon Class 2:00 PM–3:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"169": {
+    "doc": "Weekly Schedule",
+    "title": "Wednesday",
+    "content": ". | Morning Class 9:30 AM–11:30 AM | Afternoon Class 2:00 PM–3:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"170": {
+    "doc": "Weekly Schedule",
+    "title": "Thursday",
+    "content": ". | Morning Class 9:30 AM–11:30 AM | Afternoon Class 2:00 PM–3:30 PM | . | ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"171": {
+    "doc": "Weekly Schedule",
+    "title": "Friday",
+    "content": ". | Huddle 9:30 AM–10:30 AM | Career Services 11:00 AM–12:00 PM | Lab 1:00 PM–5:30 PM | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"172": {
+    "doc": "Weekly Schedule",
+    "title": "Weekly Schedule",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/schedule/",
+    "relUrl": "/schedule/"
+  },"173": {
+    "doc": "Tools",
+    "title": "Front End Tools",
+    "content": ". | Prettier Code Formatter This is information about the extenstion that you can (and should) install in VS Code. | How to format code with Prettier | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/tools/#front-end-tools",
+    "relUrl": "/resources/tools/#front-end-tools"
+  },"174": {
+    "doc": "Tools",
+    "title": "Back End Tools",
+    "content": ". | 🐛 Debugging Python For Fun &amp; Profit (video) | Code Style Checks in Python We installed flake8 on the first day of this phase. This post gives you some detail about what it’s for and why you need it. | DB Browser for SQLite - a GUI for your sqlite database | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/tools/#back-end-tools",
+    "relUrl": "/resources/tools/#back-end-tools"
+  },"175": {
+    "doc": "Tools",
+    "title": "Collaboration",
+    "content": ". | GitHub Collaboration Docs | Git Collaboration slides | Git in VS Code Not everyone loves using git on the command line like I do. A lot of folks like using the integration in VS Code, so you might want to give it a try. This is a good place to start, but there are many other extensions that you could use as well. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/tools/#collaboration",
+    "relUrl": "/resources/tools/#collaboration"
+  },"176": {
+    "doc": "Tools",
+    "title": "🕘 Time Management",
+    "content": ". | The Pomodoro Technique for Time Management &amp; Productivity | Zapier’s list of Pomodoro Apps | Time Blocking | Common Time Management Problems &amp; Solutions | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/tools/#-time-management",
+    "relUrl": "/resources/tools/#-time-management"
+  },"177": {
+    "doc": "Tools",
+    "title": "Markdown &amp; Taking Notes",
+    "content": "Markdown is an easy-to-learn way to add formatting to plain text and code snippets. It is commonly used in READMEs on GitHub and can even be used to generate HTML. It comes in handy a lot for developers, and you should know how to use it. The .md extension indicates a Markdown file. The pages for this site and every note in your team’s notes repo are formatted in Markdown – have a look on GitHub for examples! . | How to take useful notes as a developer | Mastering Markdown 30-min video course that will help you get proficient with Markdown quickly. | Markdown Guide: Getting Started | Markdown Tutorial | How Note Taking Makes Me a Better Developer | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/tools/#markdown--taking-notes",
+    "relUrl": "/resources/tools/#markdown--taking-notes"
+  },"178": {
+    "doc": "Tools",
+    "title": "Tools",
+    "content": ". | Front End Tools | Back End Tools | Collaboration | 🕘 Time Management | Markdown &amp; Taking Notes | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/resources/tools/",
+    "relUrl": "/resources/tools/"
+  },"179": {
+    "doc": "🐍 Welcome to Python! 🐍",
+    "title": "🗓️ Today’s topics",
+    "content": ". | Running Python | Syntax differences between JS and Python | Python . | variables | if statements | while loops | Input and output with input and print | Functions | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/welcome/#%EF%B8%8F-todays-topics",
+    "relUrl": "/phase2/welcome/#️-todays-topics"
+  },"180": {
+    "doc": "🐍 Welcome to Python! 🐍",
+    "title": "✅ TODO today",
+    "content": ". | Make sure your dev environment is set up, using our guide. | Read Python VS JavaScript – What are the Key Differences Between The Two Popular Programming Languages? | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/welcome/#-todo-today",
+    "relUrl": "/phase2/welcome/#-todo-today"
+  },"181": {
+    "doc": "🐍 Welcome to Python! 🐍",
+    "title": "🎯 Project",
+    "content": "We’ll be using the Thinkific content as an introduction to Python concepts. Please complete the Python section through while statements by Tuesday morning, 6/14. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/welcome/#-project",
+    "relUrl": "/phase2/welcome/#-project"
+  },"182": {
+    "doc": "🐍 Welcome to Python! 🐍",
+    "title": "🔖 Resources",
+    "content": "Essential Python Resources . | ⭐ Official Python docs | ⭐ Documentación de Python en Español | 🐍 The Python Standard Library | 🐍 La Biblioteca Estándar de Python | 📚 Python for Everybody | 📚 Python Para Todos en Español | LearnPython Tutorial -&gt; A good reference with examples and exercises. | A Byte of Python -&gt; Use this as a reference, starting at First Steps. DO NOT follow the installation instructions to download Python – you already have Python installed! | Automate The Boring Stuff Kind of like the equivalent to Eloquent JavaScript for Python. Lots of written explanation with great examples. | . RealPython: Basic Python Tutorials . These articles are way more in-depth than you need right now, but they are good references for more information, if you feel you need that. | Basic Data Types | Variables | Operators and Expressions | Strings | Python Program Lexical Structure | Conditional Statements | While Loops | For Loops | Basic Input and Output | String Formatting | Defining Your Own Python Function | Docstrings in Python | . 📓 Jupyter Notebooks . | RealPython: Using Jupyter Notebooks (video) | RealPython: Jupyter Notebook: an Introduction | Setting Up Your Python Development Environment: Jupyter Notebooks section | Using Jupyter Notebooks in VSCode -&gt; This is an alternate way to run Jupyter Notebooks locally. | . 💁 Asking Questions + Getting Help . | Julia Evans, How To Ask Good Questions | Rukia Sheikh-Mohamed, 5 Steps to Getting Unstuck | Our Student Guidelines: Getting Help | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/welcome/#-resources",
+    "relUrl": "/phase2/welcome/#-resources"
+  },"183": {
+    "doc": "🐍 Welcome to Python! 🐍",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | Notes: Intro to Python | Notebooks Prequel: the Force Awakens | Intro to Python notebooks (Notebooks 1-5) | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/welcome/#-code--notes",
+    "relUrl": "/phase2/welcome/#-code--notes"
+  },"184": {
+    "doc": "🐍 Welcome to Python! 🐍",
+    "title": "🐍 Welcome to Python! 🐍",
+    "content": "Welcome to Phase 2, where we’ll be learning about back end development. Topics we’ll cover include: . | Python and object-oriented programming | Building web applications with Django | Working with a relational database | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase2/welcome/",
+    "relUrl": "/phase2/welcome/"
+  },"185": {
+    "doc": "Welcome to Advanced Backend!",
+    "title": "Welcome to Advanced Backend!",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase3-be/welcome/",
+    "relUrl": "/phase3-be/welcome/"
+  },"186": {
+    "doc": "Welcome to your first day of class",
+    "title": "Today’s topics",
+    "content": ". | Orientation | Developer tools . | Setting up your computer | Using the command line | Git &amp; GitHub | . | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/welcome/#todays-topics",
+    "relUrl": "/phase1/welcome/#todays-topics"
+  },"187": {
+    "doc": "Welcome to your first day of class",
+    "title": "✅ TODO today",
+    "content": ". | Fill out your first self-assessment. | Read the student guidelines and how we work remotely docs in their entirety. | Make sure your computer is all set up and ready to go. | Read the Really friendly command-line intro. | Read the Really friendly Git intro. | Complete the Git-It tutorial (below) and submit this form when you are done. | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/welcome/#-todo-today",
+    "relUrl": "/phase1/welcome/#-todo-today"
+  },"188": {
+    "doc": "Welcome to your first day of class",
+    "title": "💻 Today’s Project: Git It",
+    "content": "Complete Git-It, a tutorial program that will walk you through the basics of Git and GitHub. To install it, run: brew install git-it . This should put the Git-it program in your /Applications folder. You can start it by pressing command-spacebar on your Mac and typing “git-it” and hitting return when you see the icon. Git-it will tell you to install Github Desktop. You do not have to install this, although you can if you want. We won’t be using it in class. The first time you run Git-it, you may get a notice that the application is from an unknown developer. If you do, right-click on the application and then choose “Open.” You will be presented with a dialog – choose to run the application. Once the application is running, read the instructions and complete the tasks in Git-it. Completion of the assignment is the link to the pull request that you will make in the second-to-last Git-It task. Your link should look similar to this, with a different number at the end: https://github.com/jlord/patchwork/pull/37062 . Submit the link to your pull request url using this form. ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/welcome/#-todays-project-git-it",
+    "relUrl": "/phase1/welcome/#-todays-project-git-it"
+  },"189": {
+    "doc": "Welcome to your first day of class",
+    "title": "🔖 Resources",
+    "content": "First Day Orientation and Setup . | Student guidelines | How we work remotely | Tutorial on Using Slack | Momentum Slack guidelines | Setting up your computer | . Command Line &amp; Git References . | Really friendly command-line intro | Really friendly Git intro | Git Cheat Sheet PDF | Git handbook from GitHub | Git Command Explorer – this tool lets you look up commands by what you are trying to do | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/welcome/#-resources",
+    "relUrl": "/phase1/welcome/#-resources"
+  },"190": {
+    "doc": "Welcome to your first day of class",
+    "title": "🦉 Code &amp; Notes",
+    "content": ". | command line notes | git notes | . ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/welcome/#-code--notes",
+    "relUrl": "/phase1/welcome/#-code--notes"
+  },"191": {
+    "doc": "Welcome to your first day of class",
+    "title": "Welcome to your first day of class",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase1/welcome/",
+    "relUrl": "/phase1/welcome/"
+  },"192": {
+    "doc": "Welcome to Advanced Front End",
+    "title": "Welcome to Advanced Front End",
+    "content": " ",
+    "url": "https://momentumlearn.github.io/immersive-course-team-site/phase3-fe/welcome/",
+    "relUrl": "/phase3-fe/welcome/"
+  }
+}
