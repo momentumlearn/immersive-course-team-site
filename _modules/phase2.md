@@ -9,7 +9,7 @@ phase: 2
 {% for topic in topics %}
   {{ topic.date | date: "%B %-d" }}
   : [{{ topic.title }}]({% link {{topic.url}} %})
-    : [Lab]({{ topic.lab_url }}){: .label .label-mmntm-purple } [Resources]({% link {{ topic.resources_url }} %}){: .label .label-mmntm-red }
+    : [Lab]({{ topic.lab_url }}){: .label .lab-label } [Resources]({% link {{ topic.resources_url }} %}){: .label .resources-label }
 {% endfor %}
 
 

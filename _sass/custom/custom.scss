@@ -2,7 +2,7 @@
 @import 'card';
 
 // Just the Class styles
-@import 'short_post';
+@import 'daily_post';
 @import 'module';
 @import 'schedule';
 @import 'staffer';
@@ -178,6 +178,26 @@ ul#markdown-toc > li::before {
     content: "";
 }
 
+.mmntm-blue {
+  color: $brand-royal-blue;
+}
+
+.mmntm-lt-blue {
+  color: $brand-sky-blue;
+}
+
+.mmntm-red {
+  color: $brand-ruby-red;
+}
+
+.mmntm-purple {
+  color: $brand-violet;
+}
+
+.mmntm-green {
+  color: $brand-branch-green;
+}
+
 .label-mmntm-red {
   background-color: $brand-ruby-red;
   &:hover{
@@ -209,6 +229,43 @@ ul#markdown-toc > li::before {
 .label-mmntm-blue {
   background-color: $brand-royal-blue;
   &:hover{
-    background-color: darken($brand-royal-blue, 20%);
+    background-color: lighten($brand-royal-blue, 40%);
   }
+}
+
+.be-label {
+  background-color: $brand-violet;
+}
+
+.fe-label {
+  background-color: $brand-ruby-red;
+}
+
+.all-label {
+  background-color: $brand-branch-green;
+}
+
+.resources-label {
+  @extend .label-mmntm-blue;
+}
+
+.lab-label {
+  @extend .label-mmntm-lt-blue;
+}
+
+.home-posts-headline {
+  border-top: 1px solid $brand-royal-blue;
+}
+
+.post--bordered {
+  border-bottom: 3px solid $brand-sky-blue;
+}
+
+.img--post {
+  width: 80%;
+  border: 1px solid $grey-lt-100;
+}
+
+strong {
+  color: $grey-dk-300;
 }

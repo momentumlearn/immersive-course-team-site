@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Momentum Team-X Course Site
+team_name: "Team X"
 tagline: A Jekyll template for course websites
 description: Based on Kevin Lin's Just The Class jekyll theme
 baseurl: '/immersive-course-team-site' # the subpath of your site, e.g. /blog
@@ -32,7 +33,7 @@ aux_links:
 footer_content: "&copy;2022 Momentum"
 # logo: "/assets/images/momentum__logo-digital-royal.png"
 logo: "/assets/images/momentum__mark-digital-royal.png"
-team_name: "Team X"
+
 
 # Collections for website data
 # just_the_docs:
@@ -40,8 +41,8 @@ collections:
   schedules:
     name: schedules
     nav_exclude: false
-  short_posts:
-    name: short_posts
+  daily_posts:
+    name: daily_posts
     output: true
     nav_exclude: false
   modules:
@@ -63,10 +64,10 @@ defaults:
     values:
       layout: schedule
   - scope:
-      path: short_posts
+      path: daily_posts
       type: pages
     values:
-      layout: short_post
+      layout: daily_post
 
 compress_html:
   clippings: all

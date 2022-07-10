@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Topics by Date
-description: Listing of course modules and topics.
+title: Calendar
+description: Listing of course topics by date.
+permalink: /calendar
 has_toc: false
-nav_order: 5
+nav_order: 2
 ---
 
 # Topics by Date
 
-_Note: These are listed chronologically newest to oldest_
+_Topics are listed by date, newest to oldest._
 
 {% assign modules = site.modules | sort: "phase" | reverse %}
 
 {% for module in modules %}
   {{ module }}
 {% endfor %}
-

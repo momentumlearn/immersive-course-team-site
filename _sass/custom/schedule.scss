@@ -89,9 +89,15 @@
       @extend .fs-3, .fw-700;
     }
 
+    .name2 {
+      @extend .fs-3, .fw-700;
+      border-top: 1px dotted #FFF;
+    }
+
     .time,
     .location {
       @extend .fs-2;
+      @extend .my-4;
     }
 
     &.front-end {
@@ -104,6 +110,10 @@
 
     &.lab {
       background-color: $brand-sky-blue;
+    }
+
+    &.lunch-lab {
+      background-color: $brand-branch-green;
     }
 
     &.career-services, &.huddle {

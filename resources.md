@@ -4,7 +4,7 @@ title: Resources
 description: Big list of resources by topic
 has_children: true
 has_toc: true
-nav_order: 8
+nav_order: 7
 ---
 
 # Resources
